@@ -10,7 +10,7 @@ Il inclut des notions simples de:
 Pour commencer, il est possible de cloner le projet avec Git:
 
 ```
-git clone 
+git clone https://github.com/romaindlz/Projet_GIO1.git
 ```
 
 ## Introduction
