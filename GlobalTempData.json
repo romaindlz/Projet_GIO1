@@ -1,0 +1,4324 @@
+[
+    {
+        "dt": "1991-01-01",
+        "AverageTemperature": 0.864,
+        "AverageTemperatureUncertainty": 0.261,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+    },
+    {
+        "dt": "1991-02-01",
+        "AverageTemperature": -0.399999999999999,
+        "AverageTemperatureUncertainty": 0.22,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+    },
+    {
+        "dt": "1991-03-01",
+        "AverageTemperature": 7.366,
+        "AverageTemperatureUncertainty": 0.376,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+    },
+    {
+        "dt": "1991-04-01",
+        "AverageTemperature": 7.096,
+        "AverageTemperatureUncertainty": 0.436,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+    },
+    {
+        "dt": "1991-05-01",
+        "AverageTemperature": 10.293,
+        "AverageTemperatureUncertainty": 0.402,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+    },
+    {
+        "dt": "1991-06-01",
+        "AverageTemperature": 15.0989999999999,
+        "AverageTemperatureUncertainty": 0.231999999999999,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+    },
+    {
+        "dt": "1991-07-01",
+        "AverageTemperature": 19.925,
+        "AverageTemperatureUncertainty": 0.273,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+    },
+    {
+        "dt": "1991-08-01",
+        "AverageTemperature": 20.122,
+        "AverageTemperatureUncertainty": 0.377,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+    },
+    {
+        "dt": "1991-09-01",
+        "AverageTemperature": 16.477,
+        "AverageTemperatureUncertainty": 0.354,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+    },
+    {
+        "dt": "1991-10-01",
+        "AverageTemperature": 8.338,
+        "AverageTemperatureUncertainty": 0.201999999999999,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+    },
+       {
+        "dt": "1991-11-01",
+        "AverageTemperature": 4.297,
+        "AverageTemperatureUncertainty": 0.304,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1991-12-01",
+        "AverageTemperature": -0.235,
+        "AverageTemperatureUncertainty": 0.517,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1992-01-01",
+        "AverageTemperature": -0.864,
+        "AverageTemperatureUncertainty": 0.586,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1992-02-01",
+        "AverageTemperature": 1.847,
+        "AverageTemperatureUncertainty": 0.389,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1992-03-01",
+        "AverageTemperature": 5.614,
+        "AverageTemperatureUncertainty": 0.283,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1992-04-01",
+        "AverageTemperature": 8.572,
+        "AverageTemperatureUncertainty": 0.285,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1992-05-01",
+        "AverageTemperature": 14.5059999999999,
+        "AverageTemperatureUncertainty": 0.374,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1992-06-01",
+        "AverageTemperature": 14.909,
+        "AverageTemperatureUncertainty": 0.412,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1992-07-01",
+        "AverageTemperature": 18.728,
+        "AverageTemperatureUncertainty": 0.313,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1992-08-01",
+        "AverageTemperature": 20.312,
+        "AverageTemperatureUncertainty": 0.314,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1992-09-01",
+        "AverageTemperature": 14.205,
+        "AverageTemperatureUncertainty": 0.305,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1992-10-01",
+        "AverageTemperature": 7.465,
+        "AverageTemperatureUncertainty": 0.24,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1992-11-01",
+        "AverageTemperature": 6.216,
+        "AverageTemperatureUncertainty": 0.273,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1992-12-01",
+        "AverageTemperature": 2.034,
+        "AverageTemperatureUncertainty": 0.482,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1993-01-01",
+        "AverageTemperature": 2.243,
+        "AverageTemperatureUncertainty": 0.275,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1993-02-01",
+        "AverageTemperature": -0.026,
+        "AverageTemperatureUncertainty": 0.509,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1993-03-01",
+        "AverageTemperature": 4.685,
+        "AverageTemperatureUncertainty": 0.196999999999999,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1993-04-01",
+        "AverageTemperature": 9.197,
+        "AverageTemperatureUncertainty": 0.306,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1993-05-01",
+        "AverageTemperature": 13.602,
+        "AverageTemperatureUncertainty": 0.332999999999999,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1993-06-01",
+        "AverageTemperature": 16.874,
+        "AverageTemperatureUncertainty": 0.122,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1993-07-01",
+        "AverageTemperature": 17.313,
+        "AverageTemperatureUncertainty": 0.24,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1993-08-01",
+        "AverageTemperature": 18.484,
+        "AverageTemperatureUncertainty": 0.226,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1993-09-01",
+        "AverageTemperature": 12.875,
+        "AverageTemperatureUncertainty": 0.242,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1993-10-01",
+        "AverageTemperature": 8.142,
+        "AverageTemperatureUncertainty": 0.084,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1993-11-01",
+        "AverageTemperature": 2.412,
+        "AverageTemperatureUncertainty": 0.662,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1993-12-01",
+        "AverageTemperature": 3.01,
+        "AverageTemperatureUncertainty": 0.247,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1994-01-01",
+        "AverageTemperature": 1.695,
+        "AverageTemperatureUncertainty": 0.437,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1994-02-01",
+        "AverageTemperature": 2.601,
+        "AverageTemperatureUncertainty": 0.356,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1994-03-01",
+        "AverageTemperature": 8.427,
+        "AverageTemperatureUncertainty": 0.267,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1994-04-01",
+        "AverageTemperature": 6.735,
+        "AverageTemperatureUncertainty": 0.315,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1994-05-01",
+        "AverageTemperature": 13.425,
+        "AverageTemperatureUncertainty": 0.083,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1994-06-01",
+        "AverageTemperature": 16.8409999999999,
+        "AverageTemperatureUncertainty": 0.316,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1994-07-01",
+        "AverageTemperature": 21.382,
+        "AverageTemperatureUncertainty": 0.16,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1994-08-01",
+        "AverageTemperature": 19.946,
+        "AverageTemperatureUncertainty": 0.338999999999999,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1994-09-01",
+        "AverageTemperature": 13.59,
+        "AverageTemperatureUncertainty": 0.414,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1994-10-01",
+        "AverageTemperature": 9.962,
+        "AverageTemperatureUncertainty": 0.337,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1994-11-01",
+        "AverageTemperature": 7.484,
+        "AverageTemperatureUncertainty": 0.409,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1994-12-01",
+        "AverageTemperature": 3.13,
+        "AverageTemperatureUncertainty": 0.064,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1995-01-01",
+        "AverageTemperature": 0.465,
+        "AverageTemperatureUncertainty": 0.258,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1995-02-01",
+        "AverageTemperature": 4.523,
+        "AverageTemperatureUncertainty": 0.221,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1995-03-01",
+        "AverageTemperature": 3.911,
+        "AverageTemperatureUncertainty": 0.218,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1995-04-01",
+        "AverageTemperature": 8.638,
+        "AverageTemperatureUncertainty": 0.215,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1995-05-01",
+        "AverageTemperature": 12.623,
+        "AverageTemperatureUncertainty": 0.268999999999999,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1995-06-01",
+        "AverageTemperature": 15.123,
+        "AverageTemperatureUncertainty": 0.242,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1995-07-01",
+        "AverageTemperature": 20.778,
+        "AverageTemperatureUncertainty": 0.233,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1995-08-01",
+        "AverageTemperature": 18.256,
+        "AverageTemperatureUncertainty": 0.282,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1995-09-01",
+        "AverageTemperature": 12.029,
+        "AverageTemperatureUncertainty": 0.231999999999999,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1995-10-01",
+        "AverageTemperature": 12.52,
+        "AverageTemperatureUncertainty": 0.482,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1995-11-01",
+        "AverageTemperature": 4.46,
+        "AverageTemperatureUncertainty": 0.213,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1995-12-01",
+        "AverageTemperature": 1.215,
+        "AverageTemperatureUncertainty": 0.332,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1996-01-01",
+        "AverageTemperature": 2.302,
+        "AverageTemperatureUncertainty": 0.606,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1996-02-01",
+        "AverageTemperature": -0.01,
+        "AverageTemperatureUncertainty": 0.346,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1996-03-01",
+        "AverageTemperature": 3.914,
+        "AverageTemperatureUncertainty": 0.106,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1996-04-01",
+        "AverageTemperature": 8.923,
+        "AverageTemperatureUncertainty": 0.273999999999999,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1996-05-01",
+        "AverageTemperature": 12.398,
+        "AverageTemperatureUncertainty": 0.358,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1996-06-01",
+        "AverageTemperature": 17.203,
+        "AverageTemperatureUncertainty": 0.257,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1996-07-01",
+        "AverageTemperature": 17.5009999999999,
+        "AverageTemperatureUncertainty": 0.126,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1996-08-01",
+        "AverageTemperature": 16.939,
+        "AverageTemperatureUncertainty": 0.222,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1996-09-01",
+        "AverageTemperature": 11.425,
+        "AverageTemperatureUncertainty": 0.176,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1996-10-01",
+        "AverageTemperature": 9.224,
+        "AverageTemperatureUncertainty": 0.166,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1996-11-01",
+        "AverageTemperature": 4.269,
+        "AverageTemperatureUncertainty": 0.254,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1996-12-01",
+        "AverageTemperature": 1.101,
+        "AverageTemperatureUncertainty": 0.433,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1997-01-01",
+        "AverageTemperature": -0.397,
+        "AverageTemperatureUncertainty": 0.802999999999999,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1997-02-01",
+        "AverageTemperature": 4.053,
+        "AverageTemperatureUncertainty": 0.262,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1997-03-01",
+        "AverageTemperature": 7.566,
+        "AverageTemperatureUncertainty": 0.447999999999999,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1997-04-01",
+        "AverageTemperature": 8.415,
+        "AverageTemperatureUncertainty": 0.303,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1997-05-01",
+        "AverageTemperature": 13.778,
+        "AverageTemperatureUncertainty": 0.463999999999999,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1997-06-01",
+        "AverageTemperature": 15.886,
+        "AverageTemperatureUncertainty": 0.304,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1997-07-01",
+        "AverageTemperature": 17.445,
+        "AverageTemperatureUncertainty": 0.311,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1997-08-01",
+        "AverageTemperature": 20.238,
+        "AverageTemperatureUncertainty": 0.552,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1997-09-01",
+        "AverageTemperature": 15.817,
+        "AverageTemperatureUncertainty": 0.515,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1997-10-01",
+        "AverageTemperature": 9.626,
+        "AverageTemperatureUncertainty": 0.319,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1997-11-01",
+        "AverageTemperature": 5.451,
+        "AverageTemperatureUncertainty": 0.557,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1997-12-01",
+        "AverageTemperature": 2.229,
+        "AverageTemperatureUncertainty": 0.155,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1998-01-01",
+        "AverageTemperature": 1.717,
+        "AverageTemperatureUncertainty": 0.204,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1998-02-01",
+        "AverageTemperature": 3.367,
+        "AverageTemperatureUncertainty": 0.521,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1998-03-01",
+        "AverageTemperature": 5.81,
+        "AverageTemperatureUncertainty": 0.198999999999999,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1998-04-01",
+        "AverageTemperature": 7.886,
+        "AverageTemperatureUncertainty": 0.322,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1998-05-01",
+        "AverageTemperature": 14.343,
+        "AverageTemperatureUncertainty": 0.31,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1998-06-01",
+        "AverageTemperature": 16.993,
+        "AverageTemperatureUncertainty": 0.231999999999999,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1998-07-01",
+        "AverageTemperature": 19.29,
+        "AverageTemperatureUncertainty": 0.401,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1998-08-01",
+        "AverageTemperature": 18.83,
+        "AverageTemperatureUncertainty": 0.139,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1998-09-01",
+        "AverageTemperature": 13.917,
+        "AverageTemperatureUncertainty": 0.34,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1998-10-01",
+        "AverageTemperature": 9.169,
+        "AverageTemperatureUncertainty": 0.19,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1998-11-01",
+        "AverageTemperature": 1.704,
+        "AverageTemperatureUncertainty": 0.207,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1998-12-01",
+        "AverageTemperature": 0.506999999999999,
+        "AverageTemperatureUncertainty": 0.39,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1999-01-01",
+        "AverageTemperature": 1.767,
+        "AverageTemperatureUncertainty": 0.342999999999999,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1999-02-01",
+        "AverageTemperature": 0.044,
+        "AverageTemperatureUncertainty": 0.315,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1999-03-01",
+        "AverageTemperature": 5.983,
+        "AverageTemperatureUncertainty": 0.111,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1999-04-01",
+        "AverageTemperature": 8.19399999999999,
+        "AverageTemperatureUncertainty": 0.273,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1999-05-01",
+        "AverageTemperature": 15.052,
+        "AverageTemperatureUncertainty": 0.151,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1999-06-01",
+        "AverageTemperature": 15.557,
+        "AverageTemperatureUncertainty": 0.208,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1999-07-01",
+        "AverageTemperature": 19.468,
+        "AverageTemperatureUncertainty": 0.221,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1999-08-01",
+        "AverageTemperature": 18.54,
+        "AverageTemperatureUncertainty": 0.238,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1999-09-01",
+        "AverageTemperature": 16.344,
+        "AverageTemperatureUncertainty": 0.268,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1999-10-01",
+        "AverageTemperature": 9.834,
+        "AverageTemperatureUncertainty": 0.17,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1999-11-01",
+        "AverageTemperature": 2.495,
+        "AverageTemperatureUncertainty": 0.218999999999999,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1999-12-01",
+        "AverageTemperature": 1.241,
+        "AverageTemperatureUncertainty": 0.291,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2000-01-01",
+        "AverageTemperature": -0.483,
+        "AverageTemperatureUncertainty": 0.119,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2000-02-01",
+        "AverageTemperature": 3.286,
+        "AverageTemperatureUncertainty": 0.118,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2000-03-01",
+        "AverageTemperature": 5.486,
+        "AverageTemperatureUncertainty": 0.278999999999999,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2000-04-01",
+        "AverageTemperature": 8.999,
+        "AverageTemperatureUncertainty": 0.206,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2000-05-01",
+        "AverageTemperature": 14.75,
+        "AverageTemperatureUncertainty": 0.276999999999999,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2000-06-01",
+        "AverageTemperature": 17.8269999999999,
+        "AverageTemperatureUncertainty": 0.201999999999999,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2000-07-01",
+        "AverageTemperature": 16.682,
+        "AverageTemperatureUncertainty": 0.196,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2000-08-01",
+        "AverageTemperature": 19.14,
+        "AverageTemperatureUncertainty": 0.332,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2000-09-01",
+        "AverageTemperature": 15.149,
+        "AverageTemperatureUncertainty": 0.198,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2000-10-01",
+        "AverageTemperature": 9.71,
+        "AverageTemperatureUncertainty": 0.315,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2000-11-01",
+        "AverageTemperature": 5.562,
+        "AverageTemperatureUncertainty": 0.304,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2000-12-01",
+        "AverageTemperature": 3.85,
+        "AverageTemperatureUncertainty": 0.363,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2001-01-01",
+        "AverageTemperature": 2.204,
+        "AverageTemperatureUncertainty": 0.616,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2001-02-01",
+        "AverageTemperature": 3.02,
+        "AverageTemperatureUncertainty": 0.447999999999999,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2001-03-01",
+        "AverageTemperature": 7.77,
+        "AverageTemperatureUncertainty": 0.359,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2001-04-01",
+        "AverageTemperature": 7.057,
+        "AverageTemperatureUncertainty": 0.241,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2001-05-01",
+        "AverageTemperature": 14.701,
+        "AverageTemperatureUncertainty": 0.349,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2001-06-01",
+        "AverageTemperature": 15.876,
+        "AverageTemperatureUncertainty": 0.299,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2001-07-01",
+        "AverageTemperature": 18.928,
+        "AverageTemperatureUncertainty": 0.2,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2001-08-01",
+        "AverageTemperature": 19.292,
+        "AverageTemperatureUncertainty": 0.196999999999999,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2001-09-01",
+        "AverageTemperature": 11.851,
+        "AverageTemperatureUncertainty": 0.263,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2001-10-01",
+        "AverageTemperature": 12.709,
+        "AverageTemperatureUncertainty": 0.182,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2001-11-01",
+        "AverageTemperature": 2.652,
+        "AverageTemperatureUncertainty": 0.287,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2001-12-01",
+        "AverageTemperature": -1.091,
+        "AverageTemperatureUncertainty": 0.426,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2002-01-01",
+        "AverageTemperature": 0.31,
+        "AverageTemperatureUncertainty": 0.486,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2002-02-01",
+        "AverageTemperature": 4.587,
+        "AverageTemperatureUncertainty": 0.355,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2002-03-01",
+        "AverageTemperature": 6.699,
+        "AverageTemperatureUncertainty": 0.242,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2002-04-01",
+        "AverageTemperature": 9.093,
+        "AverageTemperatureUncertainty": 0.185,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2002-05-01",
+        "AverageTemperature": 11.968,
+        "AverageTemperatureUncertainty": 0.337,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2002-06-01",
+        "AverageTemperature": 18.531,
+        "AverageTemperatureUncertainty": 0.257,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2002-07-01",
+        "AverageTemperature": 18.062,
+        "AverageTemperatureUncertainty": 0.203,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2002-08-01",
+        "AverageTemperature": 17.268,
+        "AverageTemperatureUncertainty": 0.29,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2002-09-01",
+        "AverageTemperature": 13.257,
+        "AverageTemperatureUncertainty": 0.356,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2002-10-01",
+        "AverageTemperature": 9.75,
+        "AverageTemperatureUncertainty": 0.226999999999999,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2002-11-01",
+        "AverageTemperature": 6.337,
+        "AverageTemperatureUncertainty": 0.266,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2002-12-01",
+        "AverageTemperature": 3.607,
+        "AverageTemperatureUncertainty": 0.298,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2003-01-01",
+        "AverageTemperature": -0.453999999999999,
+        "AverageTemperatureUncertainty": 0.432,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2003-02-01",
+        "AverageTemperature": -0.494,
+        "AverageTemperatureUncertainty": 0.134,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2003-03-01",
+        "AverageTemperature": 6.934,
+        "AverageTemperatureUncertainty": 0.266,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2003-04-01",
+        "AverageTemperature": 9.401,
+        "AverageTemperatureUncertainty": 0.2,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2003-05-01",
+        "AverageTemperature": 14.447,
+        "AverageTemperatureUncertainty": 0.292,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2003-06-01",
+        "AverageTemperature": 21.969,
+        "AverageTemperatureUncertainty": 0.415,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2003-07-01",
+        "AverageTemperature": 20.827,
+        "AverageTemperatureUncertainty": 0.318,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2003-08-01",
+        "AverageTemperature": 22.888,
+        "AverageTemperatureUncertainty": 0.349,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2003-09-01",
+        "AverageTemperature": 14.642,
+        "AverageTemperatureUncertainty": 0.235,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2003-10-01",
+        "AverageTemperature": 7.42,
+        "AverageTemperatureUncertainty": 0.351,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2003-11-01",
+        "AverageTemperature": 5.484,
+        "AverageTemperatureUncertainty": 0.717,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2003-12-01",
+        "AverageTemperature": 1.575,
+        "AverageTemperatureUncertainty": 0.331,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2004-01-01",
+        "AverageTemperature": 0.734,
+        "AverageTemperatureUncertainty": 0.312,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2004-02-01",
+        "AverageTemperature": 1.66699999999999,
+        "AverageTemperatureUncertainty": 0.275,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2004-03-01",
+        "AverageTemperature": 4.306,
+        "AverageTemperatureUncertainty": 0.276999999999999,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2004-04-01",
+        "AverageTemperature": 8.521,
+        "AverageTemperatureUncertainty": 0.264,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2004-05-01",
+        "AverageTemperature": 12.191,
+        "AverageTemperatureUncertainty": 0.272,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2004-06-01",
+        "AverageTemperature": 17.269,
+        "AverageTemperatureUncertainty": 0.244,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2004-07-01",
+        "AverageTemperature": 18.641,
+        "AverageTemperatureUncertainty": 0.205,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2004-08-01",
+        "AverageTemperature": 18.62,
+        "AverageTemperatureUncertainty": 0.305,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2004-09-01",
+        "AverageTemperature": 15.242,
+        "AverageTemperatureUncertainty": 0.174,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2004-10-01",
+        "AverageTemperature": 11.567,
+        "AverageTemperatureUncertainty": 0.423,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2004-11-01",
+        "AverageTemperature": 3.812,
+        "AverageTemperatureUncertainty": 0.312,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2004-12-01",
+        "AverageTemperature": 0.873,
+        "AverageTemperatureUncertainty": 0.278999999999999,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2005-01-01",
+        "AverageTemperature": -0.346,
+        "AverageTemperatureUncertainty": 0.134,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2005-02-01",
+        "AverageTemperature": -1.478,
+        "AverageTemperatureUncertainty": 0.359,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2005-03-01",
+        "AverageTemperature": 5.091,
+        "AverageTemperatureUncertainty": 0.236,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2005-04-01",
+        "AverageTemperature": 8.725,
+        "AverageTemperatureUncertainty": 0.156,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2005-05-01",
+        "AverageTemperature": 13.854,
+        "AverageTemperatureUncertainty": 0.198999999999999,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2005-06-01",
+        "AverageTemperature": 18.792,
+        "AverageTemperatureUncertainty": 0.146,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2005-07-01",
+        "AverageTemperature": 19.221,
+        "AverageTemperatureUncertainty": 0.153,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2005-08-01",
+        "AverageTemperature": 17.02,
+        "AverageTemperatureUncertainty": 0.177,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2005-09-01",
+        "AverageTemperature": 15.287,
+        "AverageTemperatureUncertainty": 0.121,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2005-10-01",
+        "AverageTemperature": 11.51,
+        "AverageTemperatureUncertainty": 0.449,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2005-11-01",
+        "AverageTemperature": 3.52,
+        "AverageTemperatureUncertainty": 0.264,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2005-12-01",
+        "AverageTemperature": -1.339,
+        "AverageTemperatureUncertainty": 0.241,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2006-01-01",
+        "AverageTemperature": -1.07599999999999,
+        "AverageTemperatureUncertainty": 0.483,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2006-02-01",
+        "AverageTemperature": 0.291,
+        "AverageTemperatureUncertainty": 0.353,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2006-03-01",
+        "AverageTemperature": 4.17899999999999,
+        "AverageTemperatureUncertainty": 0.351,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2006-04-01",
+        "AverageTemperature": 8.979,
+        "AverageTemperatureUncertainty": 0.298,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2006-05-01",
+        "AverageTemperature": 13.329,
+        "AverageTemperatureUncertainty": 0.368,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2006-06-01",
+        "AverageTemperature": 18.233,
+        "AverageTemperatureUncertainty": 0.226,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2006-07-01",
+        "AverageTemperature": 22.49,
+        "AverageTemperatureUncertainty": 0.105,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2006-08-01",
+        "AverageTemperature": 15.768,
+        "AverageTemperatureUncertainty": 0.296,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2006-09-01",
+        "AverageTemperature": 17.0909999999999,
+        "AverageTemperatureUncertainty": 0.162,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2006-10-01",
+        "AverageTemperature": 12.589,
+        "AverageTemperatureUncertainty": 0.218,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2006-11-01",
+        "AverageTemperature": 6.737,
+        "AverageTemperatureUncertainty": 0.163999999999999,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2006-12-01",
+        "AverageTemperature": 1.977,
+        "AverageTemperatureUncertainty": 0.41,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2007-01-01",
+        "AverageTemperature": 3.026,
+        "AverageTemperatureUncertainty": 0.368,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2007-02-01",
+        "AverageTemperature": 4.487,
+        "AverageTemperatureUncertainty": 0.267,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2007-03-01",
+        "AverageTemperature": 5.651,
+        "AverageTemperatureUncertainty": 0.238,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2007-04-01",
+        "AverageTemperature": 13.033,
+        "AverageTemperatureUncertainty": 0.368,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2007-05-01",
+        "AverageTemperature": 14.084,
+        "AverageTemperatureUncertainty": 0.31,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2007-06-01",
+        "AverageTemperature": 17.14,
+        "AverageTemperatureUncertainty": 0.245,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2007-07-01",
+        "AverageTemperature": 17.86,
+        "AverageTemperatureUncertainty": 0.314,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2007-08-01",
+        "AverageTemperature": 17.3179999999999,
+        "AverageTemperatureUncertainty": 0.063,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2007-09-01",
+        "AverageTemperature": 13.364,
+        "AverageTemperatureUncertainty": 0.206,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2007-10-01",
+        "AverageTemperature": 9.164,
+        "AverageTemperatureUncertainty": 0.266,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2007-11-01",
+        "AverageTemperature": 3.023,
+        "AverageTemperatureUncertainty": 0.152,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2007-12-01",
+        "AverageTemperature": 0.258999999999999,
+        "AverageTemperatureUncertainty": 0.316,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2008-01-01",
+        "AverageTemperature": 2.589,
+        "AverageTemperatureUncertainty": 0.19,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2008-02-01",
+        "AverageTemperature": 3.484,
+        "AverageTemperatureUncertainty": 0.304,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2008-03-01",
+        "AverageTemperature": 4.511,
+        "AverageTemperatureUncertainty": 0.266,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2008-04-01",
+        "AverageTemperature": 7.951,
+        "AverageTemperatureUncertainty": 0.254,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2008-05-01",
+        "AverageTemperature": 14.5539999999999,
+        "AverageTemperatureUncertainty": 0.305,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2008-06-01",
+        "AverageTemperature": 16.954,
+        "AverageTemperatureUncertainty": 0.222,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2008-07-01",
+        "AverageTemperature": 18.54,
+        "AverageTemperatureUncertainty": 0.163999999999999,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2008-08-01",
+        "AverageTemperature": 17.807,
+        "AverageTemperatureUncertainty": 0.185,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2008-09-01",
+        "AverageTemperature": 12.829,
+        "AverageTemperatureUncertainty": 0.21,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2008-10-01",
+        "AverageTemperature": 9.594,
+        "AverageTemperatureUncertainty": 0.198,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2008-11-01",
+        "AverageTemperature": 4.502,
+        "AverageTemperatureUncertainty": 0.355,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2008-12-01",
+        "AverageTemperature": 0.0939999999999999,
+        "AverageTemperatureUncertainty": 0.273,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2009-01-01",
+        "AverageTemperature": -1.519,
+        "AverageTemperatureUncertainty": 0.259,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2009-02-01",
+        "AverageTemperature": 0.701,
+        "AverageTemperatureUncertainty": 0.288,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2009-03-01",
+        "AverageTemperature": 4.958,
+        "AverageTemperatureUncertainty": 0.201,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2009-04-01",
+        "AverageTemperature": 10.623,
+        "AverageTemperatureUncertainty": 0.423,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2009-05-01",
+        "AverageTemperature": 15.5829999999999,
+        "AverageTemperatureUncertainty": 0.286,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2009-06-01",
+        "AverageTemperature": 17.163,
+        "AverageTemperatureUncertainty": 0.221,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2009-07-01",
+        "AverageTemperature": 19.602,
+        "AverageTemperatureUncertainty": 0.352,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2009-08-01",
+        "AverageTemperature": 20.437,
+        "AverageTemperatureUncertainty": 0.242,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2009-09-01",
+        "AverageTemperature": 15.504,
+        "AverageTemperatureUncertainty": 0.428,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2009-10-01",
+        "AverageTemperature": 9.414,
+        "AverageTemperatureUncertainty": 0.218,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2009-11-01",
+        "AverageTemperature": 6.706,
+        "AverageTemperatureUncertainty": 0.278,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2009-12-01",
+        "AverageTemperature": 1.1,
+        "AverageTemperatureUncertainty": 0.54,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2010-01-01",
+        "AverageTemperature": -1.999,
+        "AverageTemperatureUncertainty": 0.492,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2010-02-01",
+        "AverageTemperature": 0.757,
+        "AverageTemperatureUncertainty": 0.387,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2010-03-01",
+        "AverageTemperature": 4.498,
+        "AverageTemperatureUncertainty": 0.285,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2010-04-01",
+        "AverageTemperature": 9.892,
+        "AverageTemperatureUncertainty": 0.349,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2010-05-01",
+        "AverageTemperature": 11.717,
+        "AverageTemperatureUncertainty": 0.322,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2010-06-01",
+        "AverageTemperature": 16.727,
+        "AverageTemperatureUncertainty": 0.341,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2010-07-01",
+        "AverageTemperature": 20.778,
+        "AverageTemperatureUncertainty": 0.241,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2010-08-01",
+        "AverageTemperature": 17.737,
+        "AverageTemperatureUncertainty": 0.184,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2010-09-01",
+        "AverageTemperature": 13.488,
+        "AverageTemperatureUncertainty": 0.16,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2010-10-01",
+        "AverageTemperature": 8.952,
+        "AverageTemperatureUncertainty": 0.12,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2010-11-01",
+        "AverageTemperature": 4.717,
+        "AverageTemperatureUncertainty": 0.245,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "2010-12-01",
+        "AverageTemperature": -1.14,
+        "AverageTemperatureUncertainty": 0.331,
+        "City": "Lausanne",
+        "Country": "Switzerland",
+        "Latitude": "45.81N",
+        "Longitude": "5.77E"
+       },
+       {
+        "dt": "1991-01-01",
+        "AverageTemperature": -0.525999999999999,
+        "AverageTemperatureUncertainty": 0.398999999999999,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1991-02-01",
+        "AverageTemperature": -2.87,
+        "AverageTemperatureUncertainty": 0.396,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1991-03-01",
+        "AverageTemperature": 5.53799999999999,
+        "AverageTemperatureUncertainty": 0.275,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1991-04-01",
+        "AverageTemperature": 5.607,
+        "AverageTemperatureUncertainty": 0.163,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1991-05-01",
+        "AverageTemperature": 8.092,
+        "AverageTemperatureUncertainty": 0.138,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1991-06-01",
+        "AverageTemperature": 13.068,
+        "AverageTemperatureUncertainty": 0.115999999999999,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1991-07-01",
+        "AverageTemperature": 18.04,
+        "AverageTemperatureUncertainty": 0.309,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1991-08-01",
+        "AverageTemperature": 17.898,
+        "AverageTemperatureUncertainty": 0.276,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1991-09-01",
+        "AverageTemperature": 14.663,
+        "AverageTemperatureUncertainty": 0.214,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1991-10-01",
+        "AverageTemperature": 6.686,
+        "AverageTemperatureUncertainty": 0.253,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1991-11-01",
+        "AverageTemperature": 2.505,
+        "AverageTemperatureUncertainty": 0.332999999999999,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1991-12-01",
+        "AverageTemperature": -1.803,
+        "AverageTemperatureUncertainty": 0.406,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1992-01-01",
+        "AverageTemperature": -1.965,
+        "AverageTemperatureUncertainty": 0.508,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1992-02-01",
+        "AverageTemperature": 0.272,
+        "AverageTemperatureUncertainty": 0.322999999999999,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1992-03-01",
+        "AverageTemperature": 4.008,
+        "AverageTemperatureUncertainty": 0.278,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1992-04-01",
+        "AverageTemperature": 6.447,
+        "AverageTemperatureUncertainty": 0.237,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1992-05-01",
+        "AverageTemperature": 13.212,
+        "AverageTemperatureUncertainty": 0.162,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1992-06-01",
+        "AverageTemperature": 14.268,
+        "AverageTemperatureUncertainty": 0.4,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1992-07-01",
+        "AverageTemperature": 17.252,
+        "AverageTemperatureUncertainty": 0.368,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1992-08-01",
+        "AverageTemperature": 19.109,
+        "AverageTemperatureUncertainty": 0.292,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1992-09-01",
+        "AverageTemperature": 12.717,
+        "AverageTemperatureUncertainty": 0.259,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1992-10-01",
+        "AverageTemperature": 5.88599999999999,
+        "AverageTemperatureUncertainty": 0.355,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1992-11-01",
+        "AverageTemperature": 4.909,
+        "AverageTemperatureUncertainty": 0.337999999999999,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1992-12-01",
+        "AverageTemperature": -0.316,
+        "AverageTemperatureUncertainty": 0.571,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1993-01-01",
+        "AverageTemperature": 1.56,
+        "AverageTemperatureUncertainty": 0.216,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1993-02-01",
+        "AverageTemperature": -1.724,
+        "AverageTemperatureUncertainty": 0.537999999999999,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1993-03-01",
+        "AverageTemperature": 2.523,
+        "AverageTemperatureUncertainty": 0.282,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1993-04-01",
+        "AverageTemperature": 8.59,
+        "AverageTemperatureUncertainty": 0.204,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1993-05-01",
+        "AverageTemperature": 12.864,
+        "AverageTemperatureUncertainty": 0.306,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1993-06-01",
+        "AverageTemperature": 15.012,
+        "AverageTemperatureUncertainty": 0.107,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1993-07-01",
+        "AverageTemperature": 15.265,
+        "AverageTemperatureUncertainty": 0.195,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1993-08-01",
+        "AverageTemperature": 16.08,
+        "AverageTemperatureUncertainty": 0.228999999999999,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1993-09-01",
+        "AverageTemperature": 11.457,
+        "AverageTemperatureUncertainty": 0.439,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1993-10-01",
+        "AverageTemperature": 6.37799999999999,
+        "AverageTemperatureUncertainty": 0.387999999999999,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1993-11-01",
+        "AverageTemperature": -0.0020000000000002,
+        "AverageTemperatureUncertainty": 0.28,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1993-12-01",
+        "AverageTemperature": 1.707,
+        "AverageTemperatureUncertainty": 0.505,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1994-01-01",
+        "AverageTemperature": 0.703,
+        "AverageTemperatureUncertainty": 0.61,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1994-02-01",
+        "AverageTemperature": 0.301,
+        "AverageTemperatureUncertainty": 0.575,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1994-03-01",
+        "AverageTemperature": 6.903,
+        "AverageTemperatureUncertainty": 0.282,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1994-04-01",
+        "AverageTemperature": 5.342,
+        "AverageTemperatureUncertainty": 0.242,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1994-05-01",
+        "AverageTemperature": 11.462,
+        "AverageTemperatureUncertainty": 0.106,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1994-06-01",
+        "AverageTemperature": 15.284,
+        "AverageTemperatureUncertainty": 0.309,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1994-07-01",
+        "AverageTemperature": 19.703,
+        "AverageTemperatureUncertainty": 0.239,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1994-08-01",
+        "AverageTemperature": 17.667,
+        "AverageTemperatureUncertainty": 0.173,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1994-09-01",
+        "AverageTemperature": 12.253,
+        "AverageTemperatureUncertainty": 0.422,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1994-10-01",
+        "AverageTemperature": 7.691,
+        "AverageTemperatureUncertainty": 0.073,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1994-11-01",
+        "AverageTemperature": 6.382,
+        "AverageTemperatureUncertainty": 0.276999999999999,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1994-12-01",
+        "AverageTemperature": 1.723,
+        "AverageTemperatureUncertainty": 0.309,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1995-01-01",
+        "AverageTemperature": -1.783,
+        "AverageTemperatureUncertainty": 0.348,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1995-02-01",
+        "AverageTemperature": 3.173,
+        "AverageTemperatureUncertainty": 0.48,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1995-03-01",
+        "AverageTemperature": 1.71199999999999,
+        "AverageTemperatureUncertainty": 0.228,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1995-04-01",
+        "AverageTemperature": 7.033,
+        "AverageTemperatureUncertainty": 0.195,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1995-05-01",
+        "AverageTemperature": 11.261,
+        "AverageTemperatureUncertainty": 0.188999999999999,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1995-06-01",
+        "AverageTemperature": 12.821,
+        "AverageTemperatureUncertainty": 0.276999999999999,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1995-07-01",
+        "AverageTemperature": 19.057,
+        "AverageTemperatureUncertainty": 0.174,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1995-08-01",
+        "AverageTemperature": 16.114,
+        "AverageTemperatureUncertainty": 0.238,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1995-09-01",
+        "AverageTemperature": 10.416,
+        "AverageTemperatureUncertainty": 0.499,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1995-10-01",
+        "AverageTemperature": 11.079,
+        "AverageTemperatureUncertainty": 0.311,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1995-11-01",
+        "AverageTemperature": 2.319,
+        "AverageTemperatureUncertainty": 0.254,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1995-12-01",
+        "AverageTemperature": -1.378,
+        "AverageTemperatureUncertainty": 0.249,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1996-01-01",
+        "AverageTemperature": -1.323,
+        "AverageTemperatureUncertainty": 0.624,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1996-02-01",
+        "AverageTemperature": -2.317,
+        "AverageTemperatureUncertainty": 0.428,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1996-03-01",
+        "AverageTemperature": 1.238,
+        "AverageTemperatureUncertainty": 0.2,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1996-04-01",
+        "AverageTemperature": 7.516,
+        "AverageTemperatureUncertainty": 0.17,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1996-05-01",
+        "AverageTemperature": 10.589,
+        "AverageTemperatureUncertainty": 0.153,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1996-06-01",
+        "AverageTemperature": 15.416,
+        "AverageTemperatureUncertainty": 0.104,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1996-07-01",
+        "AverageTemperature": 15.457,
+        "AverageTemperatureUncertainty": 0.173,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1996-08-01",
+        "AverageTemperature": 15.294,
+        "AverageTemperatureUncertainty": 0.222,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1996-09-01",
+        "AverageTemperature": 9.348,
+        "AverageTemperatureUncertainty": 0.341,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1996-10-01",
+        "AverageTemperature": 7.63299999999999,
+        "AverageTemperatureUncertainty": 0.225,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1996-11-01",
+        "AverageTemperature": 2.911,
+        "AverageTemperatureUncertainty": 0.35,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1996-12-01",
+        "AverageTemperature": -1.893,
+        "AverageTemperatureUncertainty": 0.425,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1997-01-01",
+        "AverageTemperature": -2.633,
+        "AverageTemperatureUncertainty": 0.989,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1997-02-01",
+        "AverageTemperature": 2.594,
+        "AverageTemperatureUncertainty": 0.242,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1997-03-01",
+        "AverageTemperature": 5.641,
+        "AverageTemperatureUncertainty": 0.342,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1997-04-01",
+        "AverageTemperature": 5.655,
+        "AverageTemperatureUncertainty": 0.273,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1997-05-01",
+        "AverageTemperature": 11.831,
+        "AverageTemperatureUncertainty": 0.208,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1997-06-01",
+        "AverageTemperature": 14.101,
+        "AverageTemperatureUncertainty": 0.218999999999999,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1997-07-01",
+        "AverageTemperature": 15.363,
+        "AverageTemperatureUncertainty": 0.27,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1997-08-01",
+        "AverageTemperature": 18.027,
+        "AverageTemperatureUncertainty": 0.286,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1997-09-01",
+        "AverageTemperature": 13.692,
+        "AverageTemperatureUncertainty": 0.306,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1997-10-01",
+        "AverageTemperature": 7.24799999999999,
+        "AverageTemperatureUncertainty": 0.171,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1997-11-01",
+        "AverageTemperature": 3.245,
+        "AverageTemperatureUncertainty": 0.268999999999999,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1997-12-01",
+        "AverageTemperature": 0.745999999999999,
+        "AverageTemperatureUncertainty": 0.51,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1998-01-01",
+        "AverageTemperature": 0.207,
+        "AverageTemperatureUncertainty": 0.311,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1998-02-01",
+        "AverageTemperature": 2.31,
+        "AverageTemperatureUncertainty": 0.883,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1998-03-01",
+        "AverageTemperature": 3.602,
+        "AverageTemperatureUncertainty": 0.211,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1998-04-01",
+        "AverageTemperature": 6.67899999999999,
+        "AverageTemperatureUncertainty": 0.273,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1998-05-01",
+        "AverageTemperature": 12.8459999999999,
+        "AverageTemperatureUncertainty": 0.176,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1998-06-01",
+        "AverageTemperature": 15.567,
+        "AverageTemperatureUncertainty": 0.218999999999999,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1998-07-01",
+        "AverageTemperature": 16.7019999999999,
+        "AverageTemperatureUncertainty": 0.113,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1998-08-01",
+        "AverageTemperature": 16.761,
+        "AverageTemperatureUncertainty": 0.129,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1998-09-01",
+        "AverageTemperature": 11.876,
+        "AverageTemperatureUncertainty": 0.335,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1998-10-01",
+        "AverageTemperature": 7.749,
+        "AverageTemperatureUncertainty": 0.46,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1998-11-01",
+        "AverageTemperature": -0.028,
+        "AverageTemperatureUncertainty": 0.436,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1998-12-01",
+        "AverageTemperature": -0.562,
+        "AverageTemperatureUncertainty": 0.284,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1999-01-01",
+        "AverageTemperature": 0.58,
+        "AverageTemperatureUncertainty": 0.289,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1999-02-01",
+        "AverageTemperature": -2.315,
+        "AverageTemperatureUncertainty": 0.295,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1999-03-01",
+        "AverageTemperature": 4.098,
+        "AverageTemperatureUncertainty": 0.239,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1999-04-01",
+        "AverageTemperature": 6.888,
+        "AverageTemperatureUncertainty": 0.183,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1999-05-01",
+        "AverageTemperature": 13.253,
+        "AverageTemperatureUncertainty": 0.217,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1999-06-01",
+        "AverageTemperature": 13.632,
+        "AverageTemperatureUncertainty": 0.239,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1999-07-01",
+        "AverageTemperature": 17.207,
+        "AverageTemperatureUncertainty": 0.24,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1999-08-01",
+        "AverageTemperature": 16.338,
+        "AverageTemperatureUncertainty": 0.149,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1999-09-01",
+        "AverageTemperature": 14.998,
+        "AverageTemperatureUncertainty": 0.264,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1999-10-01",
+        "AverageTemperature": 7.84,
+        "AverageTemperatureUncertainty": 0.214,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1999-11-01",
+        "AverageTemperature": 0.741999999999999,
+        "AverageTemperatureUncertainty": 0.131,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "1999-12-01",
+        "AverageTemperature": -0.111,
+        "AverageTemperatureUncertainty": 0.434,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2000-01-01",
+        "AverageTemperature": -1.62699999999999,
+        "AverageTemperatureUncertainty": 0.298,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2000-02-01",
+        "AverageTemperature": 2.107,
+        "AverageTemperatureUncertainty": 0.4,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2000-03-01",
+        "AverageTemperature": 4.009,
+        "AverageTemperatureUncertainty": 0.364,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2000-04-01",
+        "AverageTemperature": 8.14299999999999,
+        "AverageTemperatureUncertainty": 0.155,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2000-05-01",
+        "AverageTemperature": 13.395,
+        "AverageTemperatureUncertainty": 0.145,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2000-06-01",
+        "AverageTemperature": 16.3,
+        "AverageTemperatureUncertainty": 0.213,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2000-07-01",
+        "AverageTemperature": 14.364,
+        "AverageTemperatureUncertainty": 0.266,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2000-08-01",
+        "AverageTemperature": 17.421,
+        "AverageTemperatureUncertainty": 0.155,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2000-09-01",
+        "AverageTemperature": 13.349,
+        "AverageTemperatureUncertainty": 0.166,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2000-10-01",
+        "AverageTemperature": 8.5,
+        "AverageTemperatureUncertainty": 0.495,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2000-11-01",
+        "AverageTemperature": 4.134,
+        "AverageTemperatureUncertainty": 0.48,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2000-12-01",
+        "AverageTemperature": 2.416,
+        "AverageTemperatureUncertainty": 0.24,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2001-01-01",
+        "AverageTemperature": -0.0249999999999999,
+        "AverageTemperatureUncertainty": 0.566,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2001-02-01",
+        "AverageTemperature": 1.44699999999999,
+        "AverageTemperatureUncertainty": 0.536,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2001-03-01",
+        "AverageTemperature": 5.154,
+        "AverageTemperatureUncertainty": 0.466,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2001-04-01",
+        "AverageTemperature": 5.17899999999999,
+        "AverageTemperatureUncertainty": 0.187,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2001-05-01",
+        "AverageTemperature": 13.702,
+        "AverageTemperatureUncertainty": 0.158,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2001-06-01",
+        "AverageTemperature": 13.522,
+        "AverageTemperatureUncertainty": 0.238,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2001-07-01",
+        "AverageTemperature": 17.0419999999999,
+        "AverageTemperatureUncertainty": 0.179,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2001-08-01",
+        "AverageTemperature": 17.572,
+        "AverageTemperatureUncertainty": 0.153,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2001-09-01",
+        "AverageTemperature": 9.91,
+        "AverageTemperatureUncertainty": 0.427,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2001-10-01",
+        "AverageTemperature": 11.437,
+        "AverageTemperatureUncertainty": 0.216,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2001-11-01",
+        "AverageTemperature": 1.15099999999999,
+        "AverageTemperatureUncertainty": 0.225,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2001-12-01",
+        "AverageTemperature": -2.299,
+        "AverageTemperatureUncertainty": 0.422,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2002-01-01",
+        "AverageTemperature": -1.06999999999999,
+        "AverageTemperatureUncertainty": 0.303,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2002-02-01",
+        "AverageTemperature": 3.479,
+        "AverageTemperatureUncertainty": 0.449,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2002-03-01",
+        "AverageTemperature": 5.036,
+        "AverageTemperatureUncertainty": 0.201,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2002-04-01",
+        "AverageTemperature": 6.975,
+        "AverageTemperatureUncertainty": 0.174,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2002-05-01",
+        "AverageTemperature": 11.288,
+        "AverageTemperatureUncertainty": 0.244,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2002-06-01",
+        "AverageTemperature": 17.2279999999999,
+        "AverageTemperatureUncertainty": 0.19,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2002-07-01",
+        "AverageTemperature": 16.387,
+        "AverageTemperatureUncertainty": 0.246,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2002-08-01",
+        "AverageTemperature": 15.969,
+        "AverageTemperatureUncertainty": 0.187,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2002-09-01",
+        "AverageTemperature": 11.142,
+        "AverageTemperatureUncertainty": 0.231999999999999,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2002-10-01",
+        "AverageTemperature": 7.909,
+        "AverageTemperatureUncertainty": 0.337999999999999,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2002-11-01",
+        "AverageTemperature": 4.83,
+        "AverageTemperatureUncertainty": 0.375,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2002-12-01",
+        "AverageTemperature": 1.815,
+        "AverageTemperatureUncertainty": 0.402999999999999,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2003-01-01",
+        "AverageTemperature": -1.78099999999999,
+        "AverageTemperatureUncertainty": 0.437999999999999,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2003-02-01",
+        "AverageTemperature": -3.348,
+        "AverageTemperatureUncertainty": 0.35,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2003-03-01",
+        "AverageTemperature": 5.38899999999999,
+        "AverageTemperatureUncertainty": 0.203,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2003-04-01",
+        "AverageTemperature": 7.26699999999999,
+        "AverageTemperatureUncertainty": 0.158,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2003-05-01",
+        "AverageTemperature": 12.882,
+        "AverageTemperatureUncertainty": 0.257,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2003-06-01",
+        "AverageTemperature": 20.307,
+        "AverageTemperatureUncertainty": 0.215,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2003-07-01",
+        "AverageTemperature": 18.27,
+        "AverageTemperatureUncertainty": 0.244,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2003-08-01",
+        "AverageTemperature": 20.953,
+        "AverageTemperatureUncertainty": 0.332999999999999,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2003-09-01",
+        "AverageTemperature": 12.911,
+        "AverageTemperatureUncertainty": 0.278,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2003-10-01",
+        "AverageTemperature": 4.935,
+        "AverageTemperatureUncertainty": 0.303,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2003-11-01",
+        "AverageTemperature": 4.194,
+        "AverageTemperatureUncertainty": 0.361,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2003-12-01",
+        "AverageTemperature": -0.184,
+        "AverageTemperatureUncertainty": 0.236,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2004-01-01",
+        "AverageTemperature": -1.04799999999999,
+        "AverageTemperatureUncertainty": 0.447,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2004-02-01",
+        "AverageTemperature": 0.263,
+        "AverageTemperatureUncertainty": 0.217,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2004-03-01",
+        "AverageTemperature": 2.547,
+        "AverageTemperatureUncertainty": 0.263,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2004-04-01",
+        "AverageTemperature": 7.49299999999999,
+        "AverageTemperatureUncertainty": 0.185,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2004-05-01",
+        "AverageTemperature": 10.155,
+        "AverageTemperatureUncertainty": 0.241,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2004-06-01",
+        "AverageTemperature": 14.644,
+        "AverageTemperatureUncertainty": 0.178,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2004-07-01",
+        "AverageTemperature": 16.4,
+        "AverageTemperatureUncertainty": 0.092,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2004-08-01",
+        "AverageTemperature": 17.016,
+        "AverageTemperatureUncertainty": 0.31,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2004-09-01",
+        "AverageTemperature": 13.412,
+        "AverageTemperatureUncertainty": 0.238,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2004-10-01",
+        "AverageTemperature": 9.645,
+        "AverageTemperatureUncertainty": 0.307,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2004-11-01",
+        "AverageTemperature": 2.426,
+        "AverageTemperatureUncertainty": 0.35,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2004-12-01",
+        "AverageTemperature": -0.947,
+        "AverageTemperatureUncertainty": 0.297,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2005-01-01",
+        "AverageTemperature": -1.39299999999999,
+        "AverageTemperatureUncertainty": 0.324,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2005-02-01",
+        "AverageTemperature": -2.996,
+        "AverageTemperatureUncertainty": 0.456,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2005-03-01",
+        "AverageTemperature": 3.373,
+        "AverageTemperatureUncertainty": 0.311,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2005-04-01",
+        "AverageTemperature": 7.46599999999999,
+        "AverageTemperatureUncertainty": 0.178,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2005-05-01",
+        "AverageTemperature": 12.036,
+        "AverageTemperatureUncertainty": 0.215,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2005-06-01",
+        "AverageTemperature": 16.601,
+        "AverageTemperatureUncertainty": 0.127,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2005-07-01",
+        "AverageTemperature": 16.729,
+        "AverageTemperatureUncertainty": 0.13,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2005-08-01",
+        "AverageTemperature": 14.754,
+        "AverageTemperatureUncertainty": 0.09,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2005-09-01",
+        "AverageTemperature": 13.964,
+        "AverageTemperatureUncertainty": 0.188,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2005-10-01",
+        "AverageTemperature": 9.44,
+        "AverageTemperatureUncertainty": 0.142,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2005-11-01",
+        "AverageTemperature": 2.157,
+        "AverageTemperatureUncertainty": 0.159,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2005-12-01",
+        "AverageTemperature": -2.259,
+        "AverageTemperatureUncertainty": 0.436,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2006-01-01",
+        "AverageTemperature": -3.535,
+        "AverageTemperatureUncertainty": 0.402999999999999,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2006-02-01",
+        "AverageTemperature": -1.604,
+        "AverageTemperatureUncertainty": 0.251,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2006-03-01",
+        "AverageTemperature": 1.313,
+        "AverageTemperatureUncertainty": 0.248,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2006-04-01",
+        "AverageTemperature": 6.877,
+        "AverageTemperatureUncertainty": 0.304,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2006-05-01",
+        "AverageTemperature": 11.701,
+        "AverageTemperatureUncertainty": 0.337,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2006-06-01",
+        "AverageTemperature": 16.166,
+        "AverageTemperatureUncertainty": 0.181,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2006-07-01",
+        "AverageTemperature": 20.855,
+        "AverageTemperatureUncertainty": 0.218,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2006-08-01",
+        "AverageTemperature": 13.407,
+        "AverageTemperatureUncertainty": 0.331,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2006-09-01",
+        "AverageTemperature": 15.519,
+        "AverageTemperatureUncertainty": 0.188,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2006-10-01",
+        "AverageTemperature": 11.012,
+        "AverageTemperatureUncertainty": 0.182,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2006-11-01",
+        "AverageTemperature": 5.36799999999999,
+        "AverageTemperatureUncertainty": 0.212,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2006-12-01",
+        "AverageTemperature": 1.166,
+        "AverageTemperatureUncertainty": 0.33,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2007-01-01",
+        "AverageTemperature": 2.421,
+        "AverageTemperatureUncertainty": 0.445,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2007-02-01",
+        "AverageTemperature": 3.045,
+        "AverageTemperatureUncertainty": 0.276999999999999,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2007-03-01",
+        "AverageTemperature": 3.993,
+        "AverageTemperatureUncertainty": 0.222,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2007-04-01",
+        "AverageTemperature": 11.716,
+        "AverageTemperatureUncertainty": 0.421,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2007-05-01",
+        "AverageTemperature": 13.089,
+        "AverageTemperatureUncertainty": 0.123,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2007-06-01",
+        "AverageTemperature": 15.694,
+        "AverageTemperatureUncertainty": 0.226999999999999,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2007-07-01",
+        "AverageTemperature": 16.144,
+        "AverageTemperatureUncertainty": 0.175,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2007-08-01",
+        "AverageTemperature": 15.601,
+        "AverageTemperatureUncertainty": 0.132,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2007-09-01",
+        "AverageTemperature": 11.337,
+        "AverageTemperatureUncertainty": 0.338999999999999,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2007-10-01",
+        "AverageTemperature": 7.54099999999999,
+        "AverageTemperatureUncertainty": 0.182,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2007-11-01",
+        "AverageTemperature": 1.39499999999999,
+        "AverageTemperatureUncertainty": 0.193999999999999,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2007-12-01",
+        "AverageTemperature": -0.873,
+        "AverageTemperatureUncertainty": 0.263,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2008-01-01",
+        "AverageTemperature": 1.449,
+        "AverageTemperatureUncertainty": 0.322999999999999,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2008-02-01",
+        "AverageTemperature": 2.169,
+        "AverageTemperatureUncertainty": 0.429,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2008-03-01",
+        "AverageTemperature": 2.786,
+        "AverageTemperatureUncertainty": 0.32,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2008-04-01",
+        "AverageTemperature": 6.13,
+        "AverageTemperatureUncertainty": 0.14,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2008-05-01",
+        "AverageTemperature": 13.734,
+        "AverageTemperatureUncertainty": 0.14,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2008-06-01",
+        "AverageTemperature": 15.814,
+        "AverageTemperatureUncertainty": 0.242,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2008-07-01",
+        "AverageTemperature": 16.793,
+        "AverageTemperatureUncertainty": 0.115,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2008-08-01",
+        "AverageTemperature": 16.225,
+        "AverageTemperatureUncertainty": 0.184,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2008-09-01",
+        "AverageTemperature": 10.97,
+        "AverageTemperatureUncertainty": 0.184,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2008-10-01",
+        "AverageTemperature": 8.06599999999999,
+        "AverageTemperatureUncertainty": 0.153,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2008-11-01",
+        "AverageTemperature": 2.767,
+        "AverageTemperatureUncertainty": 0.255,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2008-12-01",
+        "AverageTemperature": -1.128,
+        "AverageTemperatureUncertainty": 0.168999999999999,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2009-01-01",
+        "AverageTemperature": -3.421,
+        "AverageTemperatureUncertainty": 0.309,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2009-02-01",
+        "AverageTemperature": -1.239,
+        "AverageTemperatureUncertainty": 0.252,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2009-03-01",
+        "AverageTemperature": 2.571,
+        "AverageTemperatureUncertainty": 0.14,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2009-04-01",
+        "AverageTemperature": 9.848,
+        "AverageTemperatureUncertainty": 0.218999999999999,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2009-05-01",
+        "AverageTemperature": 13.822,
+        "AverageTemperatureUncertainty": 0.278,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2009-06-01",
+        "AverageTemperature": 14.811,
+        "AverageTemperatureUncertainty": 0.186,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2009-07-01",
+        "AverageTemperature": 17.022,
+        "AverageTemperatureUncertainty": 0.247,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2009-08-01",
+        "AverageTemperature": 18.241,
+        "AverageTemperatureUncertainty": 0.179,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2009-09-01",
+        "AverageTemperature": 13.921,
+        "AverageTemperatureUncertainty": 0.161,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2009-10-01",
+        "AverageTemperature": 7.66,
+        "AverageTemperatureUncertainty": 0.142,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2009-11-01",
+        "AverageTemperature": 5.307,
+        "AverageTemperatureUncertainty": 0.38,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2009-12-01",
+        "AverageTemperature": -0.8,
+        "AverageTemperatureUncertainty": 0.422,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2010-01-01",
+        "AverageTemperature": -3.59699999999999,
+        "AverageTemperatureUncertainty": 0.228,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2010-02-01",
+        "AverageTemperature": -0.966,
+        "AverageTemperatureUncertainty": 0.325,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2010-03-01",
+        "AverageTemperature": 2.829,
+        "AverageTemperatureUncertainty": 0.165,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2010-04-01",
+        "AverageTemperature": 8.043,
+        "AverageTemperatureUncertainty": 0.161,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2010-05-01",
+        "AverageTemperature": 9.978,
+        "AverageTemperatureUncertainty": 0.158,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2010-06-01",
+        "AverageTemperature": 15.38,
+        "AverageTemperatureUncertainty": 0.191,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2010-07-01",
+        "AverageTemperature": 18.583,
+        "AverageTemperatureUncertainty": 0.221,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2010-08-01",
+        "AverageTemperature": 15.535,
+        "AverageTemperatureUncertainty": 0.266,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2010-09-01",
+        "AverageTemperature": 11.4709999999999,
+        "AverageTemperatureUncertainty": 0.191,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2010-10-01",
+        "AverageTemperature": 7.004,
+        "AverageTemperatureUncertainty": 0.135,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2010-11-01",
+        "AverageTemperature": 3.355,
+        "AverageTemperatureUncertainty": 0.332,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       },
+       {
+        "dt": "2010-12-01",
+        "AverageTemperature": -2.841,
+        "AverageTemperatureUncertainty": 0.209,
+        "City": "Zurich",
+        "Country": "Switzerland",
+        "Latitude": "47.42N",
+        "Longitude": "8.29E"
+       }
+       
+       
+]

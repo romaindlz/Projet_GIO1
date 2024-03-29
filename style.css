@@ -1,0 +1,377 @@
+@import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700";
+
+.ol-popup {
+  position: absolute;
+  background-color: white;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.2);
+  padding: 15px;
+  border-radius: 10px;
+  border: 1px solid #cccccc;
+  bottom: 12px;
+  left: -50px;
+  min-width: 230px;
+  color: rgb(218, 41, 28);
+}
+
+.popover-body{
+  color: rgb(218, 41, 28);
+  font-family: 'Poppins', sans-serif;
+  
+}
+
+.ol-popup:after, .ol-popup:before {
+  top: 100%;
+  border: solid transparent;
+  content: " ";
+  height: 0;
+  width: 0;
+  position: absolute;
+  pointer-events: none;
+}
+
+.ol-popup:after {
+  border-top-color: white;
+  border-width: 10px;
+  left: 48px;
+  margin-left: -10px;
+}
+
+.ol-popup:before {
+  border-top-color: #cccccc;
+  border-width: 11px;
+  left: 48px;
+  margin-left: -11px;
+}
+.ol-popup-closer {
+  text-decoration: none;
+  position: absolute;
+  top: 2px;
+  right: 8px;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background: hsl(0, 0%, 94%);
+}
+
+header {
+  position: static;
+  width: 100vw;
+  height: 80px;
+  padding: 10px;
+  color: rgb(218, 41, 28);
+}
+
+header .container {
+  border: 0px;
+}
+
+header #logo {
+  width: 80px;
+  margin-left: 0;
+}
+
+header #logoUNIGE {
+  width: 80px;
+  margin-right: 0;
+}
+
+header h1 {
+  font-size: 2.5em;
+  align-content: center;
+  margin: auto;
+  text-align: center;
+}
+
+p {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.1em;
+  font-weight: 300;
+  line-height: 1.7em;
+  color: rgb(218, 41, 28);
+}
+
+a, a:hover, a:focus {
+  color: inherit;
+  text-decoration: none;
+  transition: all 0.3s;
+}
+
+.navbar {
+  padding: 15px 10px;
+  background: #fff;
+  border: none;
+  border-radius: 0;
+  margin-bottom: 40px;
+  box-shadow: 1px 1px 3px rgba(8, 121, 36, 0.1);
+}
+
+
+.line {
+  width: 100%;
+  height: 1px;
+  border-bottom: 1px dashed #ddd;
+  margin: 40px 0;
+}
+
+#map-container {
+  height: 80vh;
+  width: auto; /* Ensure full width */
+}
+
+
+/* ---------------------------------------------------
+    SIDEBAR STYLE
+----------------------------------------------------- */
+
+.wrapper {
+  display: flex;
+  width: 100%;
+  align-items: stretch;
+  perspective: 1500px;
+}
+
+
+#sidebar {
+  min-width: 250px;
+  max-width: 250px;
+  margin-left: 10px;
+  background: hwb(0 100% 0%);
+  color: rgb(218, 41, 28);
+  transition: all 0.6s cubic-bezier(0.945, 0.020, 0.270, 0.665);
+  transform-origin: bottom left;
+}
+
+#sidebar.active {
+  margin-left: -250px;
+  transform: rotateY(100deg);
+}
+
+#sidebar p {
+  color: rgb(218, 41, 28);
+  padding: 0px 10px;
+}
+
+#sidebar .form-inline {
+  padding: 0px 10px 10px 10px;
+}
+
+#sidebar .recherche {
+  width: 55%;
+  border-radius: 5px;
+  border-color: rgba(190, 185, 185, 0.416);
+}
+
+#sidebar .bouton {
+  width: 45%;
+  cursor: pointer;
+  border-radius: 5px;
+  color: rgb(218, 41, 28);
+  border-color: rgba(190, 185, 185, 0.416);
+}
+
+#sidebar .bouton:hover {
+  background-color: rgb(218, 41, 28);
+  transition: 0.5s;
+  color: #fff;
+}
+
+#sidebar ul li a {
+  padding: 10px;
+  font-size: 1.1em;
+  display: block;
+  border-radius: 15px;
+  margin: 2px;
+  border: 1px solid rgb(218, 41, 28);
+}
+
+.custom-control-input:focus~.custom-control-label::before {
+  border-color: rgb(218, 41, 28) !important;
+  box-shadow: 0 0 0 0.2rem rgba(218, 41, 28, 0.25) !important;
+}
+
+.custom-control-input:checked~.custom-control-label::before {
+  border-color: rgb(218, 41, 28)!important;
+  background-color: rgb(218, 41, 28) !important;
+}
+
+#sidebar ul li ul li #LienExterne {
+  color: rgb(218, 41, 28) ;
+  border-radius: 0px;
+  border: 1px solid rgb(255, 255, 255);
+  padding-left: 0px !important;
+  width: 100%;
+  text-decoration: underline;
+  position: block;
+}
+
+
+#sidebar ul li ul li #LienExterne:hover {
+  background-color: rgb(255, 255, 255);
+}
+
+
+#sidebar ul li a:hover {
+  color: #fff;
+  background-color: rgb(218, 41, 28);
+  transition: 0.5s;   
+}
+
+#sidebar ul li.active>a,
+a[aria-expanded="true"] {
+  color: #fff;
+  background: rgba(218, 41, 28);
+}
+
+a[data-toggle="collapse"] {
+  position: relative;
+}
+
+.dropdown-toggle::after {
+  display: block;
+  position: absolute;
+  top: 50%;
+  right: 20px;
+  transform: translateY(-50%);
+  transition: 0.5s;
+}
+
+.dropdown-toggle[aria-expanded="true"]::after {
+  transform: rotate(180deg);
+}
+
+ul ul li {
+  font-size: 0.9em !important;
+  padding-left: 45px !important;
+  background: #fff;
+  margin: 2px 0px 2px;
+}
+
+ul ul a {
+  width: 70%;
+  font-size: 0.9em !important;
+  padding-left: 30px !important;
+  background: #fff;
+  border: 1px solid rgb(218, 41, 28);
+}
+
+ul ul ul li {
+  font-size: 0.9em !important;
+  padding-left: 65px !important;
+  background: #fff;
+  margin: 2px 0px 2px;
+}
+
+/*on-off switchers*/
+.container {
+    width: 100%; /* Ensure full width */
+    max-width: None; /* Remove max-width restriction */
+}
+
+.onoffswitch {
+    position: relative; width: 44px;
+    -webkit-user-select:none; -moz-user-select:none; -ms-user-select: none;
+}
+.onoffswitch-checkbox {
+    position: absolute;
+    opacity: 0;
+    pointer-events: none;
+}
+.onoffswitch-label {
+    display: block; overflow: hidden; cursor: pointer;
+    height: 20px; padding: 0; line-height: 20px;
+    border: 2px solid #E3E3E3; border-radius: 20px;
+    background-color: #FFFFFF;
+    transition: background-color 0.3s ease-in;
+}
+.onoffswitch-label:before {
+    content: "";
+    display: block; width: 20px; margin: 0px;
+    background: #FFFFFF;
+    position: absolute; top: 0; bottom: 0;
+    right: 22px;
+    border: 2px solid #E3E3E3; border-radius: 20px;
+    transition: all 0.3s ease-in 0s; 
+}
+.onoffswitch-checkbox:checked + .onoffswitch-label {
+    background-color: rgb(218, 41, 28);
+}
+.onoffswitch-checkbox:checked + .onoffswitch-label, .onoffswitch-checkbox:checked + .onoffswitch-label:before {
+   border-color: rgb(218, 41, 28);
+}
+.onoffswitch-checkbox:checked + .onoffswitch-label:before {
+    right: 0px; 
+}
+
+/*slider*/
+.container {
+    position: relative;
+  }
+
+  .layer {
+    width: 30px;
+    height: 30px;
+  }
+
+  .opacity-slider {
+    position: absolute;
+    bottom: 10px;
+    left: 0;
+    width: 100%;
+  }
+    
+  .slider-container {
+    position: absolute;
+    bottom: 10px;
+    left: 0;
+    width: 20%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    visibility: hidden; /* the slider is hidden by default */
+  }
+  
+  .left-text {
+    font-size: 12px;
+    white-space: nowrap; /* text on 1 line only */
+    margin-right: 6px; /* margin between text and slider */
+  }
+  
+  .right-text {
+    font-size: 12px;
+    white-space: nowrap; /* text on 1 line only */
+    margin-left: 6px; /* margin between text and slider */
+  }
+
+
+  .year-slider-container {
+    position: absolute;
+    bottom: 10px;
+    left: 0;
+    width: 20%;
+    display: flex;
+    margin-left: 12px;
+    font-size: 14px;
+    visibility: hidden; /* the slider is hidden by default */
+  }
+
+  .year-slider-container #yearDisplay {
+    margin-left: 10px; /* Add margin to the left of the text */
+}
+
+  #popup {
+    background-color: white;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.2);
+    padding: 15px;
+    border-radius: 5px;
+    font-size: 14px;
+    max-width: 300px;
+}
+.marker {
+    width: 20;
+    height: 20px;
+    background-color: red;
+    border-radius: 50%;
+    border: 2px solid white;
+    cursor: pointer;
+}

@@ -1,0 +1,126 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+#map {
+    height: 100%;
+    width: 100%;
+}
+#sliderContainer {
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+    z-index: 1000;
+}
+#yearSlider {
+    width: 150px; 
+    -webkit-appearance: none;
+    background: #ddd;
+    cursor: pointer;
+}
+#yearSlider:hover {
+    opacity: 0.7;
+}
+#yearSlider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 25px;
+    height: 25px;
+    background: #4CAF50;
+}
+#yearSlider::-moz-range-thumb {
+    width: 25px;
+    height: 25px;
+    background: #4CAF50;
+}
+#yearDisplay {
+    margin-top: 5px;
+    text-align: center;
+    font-size: 14px;
+}
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: Arial, sans-serif; 
+}
+
+#map {
+    height: 100%;
+    width: 100%;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5); 
+}
+
+#sliderContainer {
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+    z-index: 1000;
+    padding: 5px;
+    background-color: rgba(237, 237, 237, 0.508); 
+    border-radius: 5px; 
+    box-shadow: 0 0 5px rgba(0,0,0,0.3); 
+}
+
+#yearSlider {
+    width: 150px; 
+    -webkit-appearance: none;
+    background: #c7dae5;
+    cursor: pointer;
+    border: 1px solid #171616; 
+    border-radius: 5px; 
+}
+
+#yearSlider:hover {
+    opacity: 0.7;
+}
+
+#yearSlider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 25px;
+    height: 25px;
+    background: #4e544e27;
+    border: 1px solid black; 
+}
+
+#yearSlider::-moz-range-thumb {
+    width: 25px;
+    height: 25px;
+    background: #4CAF50;
+    border: none;
+}
+
+#yearDisplay {
+    margin-top: 5px;
+    text-align: center;
+    font-size: 14px;
+    color: rgb(39, 45, 45);
+    
+}
+
+.leaflet-control-scale {
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.3);
+}
+
+.leaflet-control-scale-line {
+    background-color: rgba(199, 200, 200, 0.395);
+    border: 1px solid ;
+    
+}
+
+#northIconContainer {
+    position: absolute;
+    top: 75px; 
+    left: 5px;
+    z-index: 1000; 
+}
+
+#northIcon {
+    height: 50px; 
+    width: 50px;
+}
+

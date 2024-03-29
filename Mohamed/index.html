@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Carte avec données JSON</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<div id="map"></div>
+<div id="sliderContainer">
+    <input id="yearSlider" type="range" min="1991" max="2010" value="1991" oninput="updateYear(this.value)" onchange="updateYear(this.value)">
+    <div id="yearDisplay">1991</div>
+</div>
+
+<div id="northIconContainer">
+    <img src="kisspng-north-arrow-symbol-drawing-clip-art-compass-tattoo-5b4ed2a74416e1.1226308415318923912789.png" id="northIcon" />
+</div>
+
+
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+<script>
+    var map = L.map('map').setView([46.8182, 8.2275], 5); // Centre sur la Suisse pour l'exemple
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 19,
+        attribution: '© OpenStreetMap contributors'
+    }).addTo(map);
+    L.control.scale({maxWidth: 100, metric: true, imperial: false}).addTo(map);
+
+    var markersLayer = new L.LayerGroup(); // Créer un groupe de marqueurs pour gérer les marqueurs
+    map.addLayer(markersLayer); // Ajouter le groupe de marqueurs à la carte
+
+    
+    function convertCoords(lat, lon) {
+        let latDeg = parseFloat(lat.slice(0, -1));
+        let lonDeg = parseFloat(lon.slice(0, -1));
+        let latDir = lat.slice(-1);
+        let lonDir = lon.slice(-1);
+        if (latDir === 'S') latDeg = -latDeg;
+        if (lonDir === 'W') lonDeg = -lonDeg;
+        return [latDeg, lonDeg];
+    }
+
+    function loadAndDisplayJSON(url, year) {
+        fetch(url)
+            .then(response => response.json())
+            .then(data => {
+                markersLayer.clearLayers(); // Efface les marqueurs précédents
+                data.filter(item => item.dt.startsWith(year)).forEach(item => {
+                    let coords = convertCoords(item.Latitude, item.Longitude);
+                    var marker = L.marker(coords).bindPopup(`<b>${item.City}</b><br>Température moyenne: ${item.AverageTemperature}°C`);
+                    markersLayer.addLayer(marker); // Ajoute le marqueur au groupe de marqueurs
+                });
+            })
+            .catch(error => console.error('Erreur lors du chargement du fichier JSON:', error));
+    }
+
+    function updateYear(year) {
+        document.getElementById('yearDisplay').innerText = year; // Mettre à jour l'affichage de l'année
+        loadAndDisplayJSON('GlobalTempData.json', year); // Assurez-vous que le chemin est correct
+    }
+
+    window.onload = function() {
+        updateYear(document.getElementById('yearSlider').value);
+    };
+</script>
+
+</body>
+</html>
