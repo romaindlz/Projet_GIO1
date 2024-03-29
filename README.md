@@ -45,4 +45,4 @@ Nous sommes trois étudiants de première année dans la filière ingénierie g�
 Notre équipe se compose de trois étudiants:
   - Romain Délèze: Ingénieur en géomatique et gestion du territoire depuis été 2023. Ses tâches principales ont été le développement HTML, CSS et Javascript ainsi que la recherche des améliorations à appliquer au projet.
   - Benjamin Melchiorre: Ingénieur en géomatique et gestion du territoire depuis été 2023. Ses tâches principales ont été le développement HTML et CSS, l'élaboration du markdown ainsi que la recherche des améliorations à appliquer au projet.
-  - Mazhoud Mohamed: Etudiant en échange de Tunisie, ses tâches principales ont été la recherche et le développement de l'outil de prédiction des phénomènes météorologiques.
+  - Mazhoud Mohamed: Etudiant en échange de Tunisie, ses tâches principales ont été le développement HTML, CSS et Javascript ainsi que la recherche et le développement de l'outil de prédiction des phénomènes météorologiques.
