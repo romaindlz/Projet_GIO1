@@ -237,6 +237,9 @@ function zoomToCoordinates(latitude, longitude) {
 
 const resetButton = document.getElementById('resetButton');
 
+
+
+
 //Mohamed
 /*Historique*/
 const toggleButton_hist = document.getElementById('myonoffswitch_hist');
