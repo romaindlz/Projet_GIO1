@@ -47,12 +47,18 @@ Notre équipe se compose de trois étudiants:
   - Benjamin Melchiorre: Ingénieur en géomatique et gestion du territoire depuis été 2023. Ses tâches principales ont été le développement HTML et CSS, l'élaboration du markdown ainsi que la recherche des améliorations à appliquer au projet.
   - Mazhoud Mohamed: Etudiant en échange de Tunisie, ses tâches principales ont été le développement HTML, CSS et Javascript ainsi que la recherche et le développement de l'outil de prédiction des phénomènes météorologiques.
 
+### Collaboration au sein du groupe
+Pour collaborer ensemble sur ce projet, un répertoire Github a été créé. Tous les documents utiles au projet ont été déposé sur ce répertoire. 
+
 ## Fonctionnement du projet
 ### Landing page
 Cette page de garde est la page de démarrage de notre application. Elle permet de faire le lien pour accéder à notre application principale. Un boutton permet également de faire le lien avec notre répértoire Github. \
 L'image en fond représente un paysage montagneux lors d'une tempête. Ce fond représente bien le thème de notre projet. Cette image de fond à été générée par une IA.
 
 ### Architecture du projet
+Notre projet repose sur 
+
+
 
 ## Difficultés rencontrées
 
