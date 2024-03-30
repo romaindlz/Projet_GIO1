@@ -52,6 +52,8 @@ Notre équipe se compose de trois étudiants:
 Cette page de garde est la page de démarrage de notre application. Elle permet de faire le lien pour accéder à notre application principale. Un boutton permet également de faire le lien avec notre répértoire Github. \
 L'image en fond représente un paysage montagneux lors d'une tempête. Ce fond représente bien le thème de notre projet. Cette image de fond à été générée par une IA.
 
+### Architecture du projet
+
 ## Difficultés rencontrées
 
 ## Améliorations possibles
