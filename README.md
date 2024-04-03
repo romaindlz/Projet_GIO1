@@ -37,13 +37,29 @@ Pour collaborer ensemble sur ce projet, un répertoire Github a été créé. To
 
 ## Fonctionnement du projet
 Le projet cloné contient plusieurs fichiers:
-  - *LandingPage.htmml* : 
+  - *LandingPage.htmml* : Page de démarrage de notre application.
+  - *map.html* : Fichier permettant de générer notre application principale avec la carte et les différentes fonctions implémentées.
+  - *style.css* : Fichier permettant de styliser notre application principale.
+  - *script.js* : Fichier qui contient tout le développement Javascript de notre projet.
+  - *XXX.jpg et XXX.png* : Différents logos utilisés dans notre projet.
+  - Dossiers *public* et *src* : Différents dossiers contenant le développement VueJs de la fonction de prédictions des phénomènes météorologiques.
+
+La fonction de prédiction des phénomènes météos a été implémentée en VueJs, contrairement à notre application principale, et n'est pas intégrée dans cette dernière. 
+Après avoir rencontré des difficultés à intégrer cette fonction dans l'application principale ainsi que par manque de temps, nous n'avons pas pu intégrer cette fonctionnalité dans notre application. 
+
 ### Landing page
 Cette page de garde est la page de démarrage de notre application. Elle permet de faire le lien pour accéder à notre application principale. Un boutton permet également de faire le lien avec notre répértoire Github. \
 L'image en fond représente un paysage montagneux lors d'une tempête. Ce fond représente bien le thème de notre projet. Cette image de fond à été générée par une IA.
 
-### Architecture du projet
-Notre projet repose sur 
+### Application principale
+Notre application permet la visualisation de différents phénomènes météorologiques, comme la température moyenne de l'air en juillet sur la période 1961-1990, les précipitations sur cette même période, etc. sur le territoire suisse. 
+Le fond de carte peut être modifié selon deux fonds de carte Bing différents (*Road* ou *Aerial*).
+Les différents fonds de carte et couches s'affichent à l'aide des bibliothèques *Openlayers*. \
+Lorsqu'un togglebButton est activé ou désactivé, une tuile WMS provenant de GeoAdmin est activée ou désactivée. 
+Toutes les données que nous affichons sont donc des données raster. \
+Une slidebar permet de modifier la période de visualisation des différents phénomènes.
+Une fonction de recherche permet de faire une recherche selon une ville, un village, etc. 
+
 
 
 
