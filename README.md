@@ -82,15 +82,15 @@ Une première amélioration aurait pu être de séparer les responsabilités dan
   4. Quatrième unité qui est responsable des évènements de prédiction des phénomènes météorologiques.
 
 Une seconde amélioration aurait été d'implémenter notre projet avec le Framework *VueJs*. Ce Framework a deux principales fonctionnalités très importantes qui sont le rendu déclaratif et la réactivité, ce qui est particulièrement adapté pour la construction d'interfaces utilisateurs. Comme expliqué dans la section précédente, nous avons tenté d'adapter notre projet à ce Framework mais nous avons rencontré de nombreux problèmes. Si nous avions implémenté notre projet avec le Framework *VueJs*, nous aurions pu avoir l'architecture suivante:
-src/
-|_ components/
-   |_ App.vue
-   |_ WeatherMap.vue
-   |_ Temperature.vue
-   |_ Precipitation.vue
-   |_ ...
-|_ assets/
-|_ main.js
+src/\
+|_ components/ \
+   |_ App.vue \
+   |_ WeatherMap.vue \
+   |_ Temperature.vue \
+   |_ Precipitation.vue \
+   |_ ... \
+|_ assets/ \
+|_ main.js \
 
 
 
