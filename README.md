@@ -101,6 +101,7 @@ Les différents composants *Vue* aurait les responsabilités suivantes:
   - *Temperature.vue* : Ce composant serait responsable de récupérer l'état du toggle spécifique à cette donnée dans l'application et d'afficher la donnée spécifique sur la carte.
   - *Precipitation.vue* : Ce composant serait responsable de récupérer l'état du toggle spécifique à cette donnée dans l'application et d'afficher la donnée spécifique sur la carte.
   - *Prediction.vue* : Ce composant serait responsable de récupérer la valeur de la slidebar dans l'application afin d'utiliser cette valeur pour la prédiction des phénomènes météos. Il serait également reponsable d'afficher ensuite les données calculées sur la carte.
+  - *...* : Nous aurions pu ajouter autant de composants que de données que nous voudrions afficher avec la même logique que les composants précédents.
 
 
 
