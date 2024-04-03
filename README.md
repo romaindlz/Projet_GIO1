@@ -83,16 +83,24 @@ Une première amélioration aurait pu être de séparer les responsabilités dan
 
 Une seconde amélioration aurait été d'implémenter notre projet avec le Framework *VueJs*. Ce Framework a deux principales fonctionnalités très importantes qui sont le rendu déclaratif et la réactivité, ce qui est particulièrement adapté pour la construction d'interfaces utilisateurs. Comme expliqué dans la section précédente, nous avons tenté d'adapter notre projet à ce Framework mais nous avons rencontré de nombreux problèmes. Si nous avions implémenté notre projet avec le Framework *VueJs*, nous aurions pu avoir l'architecture suivante: 
 ```
-src/\
-  |_ components/ \
-     |_ App.vue \
-     |_ WeatherMap.vue \
-     |_ Temperature.vue \
-     |_ Precipitation.vue \
-     |_ ... \
-  |_ assets/ \
-  |_ main.js \
+src/
+  |_ components/ 
+     |_ SearchLocation.vue
+     |_ Map.vue 
+     |_ Temperature.vue 
+     |_ Precipitation.vue
+     |_ Prediction.vue
+     |_ ... 
+  |_ assets/ 
+  |_ main.js
+  |_ App.vue  
 ```
+Les différents composants *Vue* aurait les responsabilités suivantes:
+  - *SearchLocation.vue* : Ce composant serait reponsable de gérer la fonction de recherche. Il récupérerait le texte tapé dans l'input "text" présent sur l'application et ferait appel à l'API permettant la recherche par location.
+  - *Map.vue* : Ce composant serait responsable de récupérer l'état du toggle spécifique aux fonds de carte dans l'application et d'afficher le fond de carte demandé.
+  - *Temperature.vue* : Ce composant serait responsable de récupérer l'état du toggle spécifique à cette donnée dans l'application et d'afficher la donnée spécifique sur la carte.
+  - *Precipitation.vue* : Ce composant serait responsable de récupérer l'état du toggle spécifique à cette donnée dans l'application et d'afficher la donnée spécifique sur la carte.
+  - *Prediction.vue* : Ce composant serait responsable de récupérer la valeur de la slidebar dans l'application afin d'utiliser cette valeur pour la prédiction des phénomènes météos. Il serait également reponsable d'afficher ensuite les données calculées sur la carte.
 
 
 
