@@ -75,4 +75,16 @@ Une difficulté supplémentaire rencontrée a été l'intégration des nouveaux 
 
 ### Améliorations possibles
 Cette dernière section concerne les potentielles améliorations que nous pourrions intégrer à notre application. \
-dbhcbads
+Une première amélioration aurait pu être de séparer les responsabilités dans notre application. En effet, notre fichier *script.js* prend toutes les responsabilités. Le fait de séparer les responsabilités permet de déboguer plus facilement notre programme, de rendre plus claire notre modèle, etc. Nous aurions alors pu séparer notre programme en plusieurs unités:
+  1. Première unité qui est responsable de l'initialisation de la carte et la gestion des couches.
+  2. Seconde unité qui est responsable de la gestion des événements des boutons.
+  3. Troisième unité qui est responsable de la gestion des événements de recherche pour les villes.
+  4. Quatrième unité qui est responsable des évènements de prédiction des phénomènes météorologiques.
+
+
+
+
+
+
+
+
