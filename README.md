@@ -35,7 +35,7 @@ Notre équipe se compose de trois étudiants:
 ### Collaboration au sein du groupe
 Pour collaborer ensemble sur ce projet, un répertoire Github a été créé. Tous les documents utiles au projet ont été déposé sur ce répertoire. Pour effectuer certains développement des "branches" git ont été créées, notamment pour le développement de la prédiction des phénomènes météorologiques en VueJs.
 
-## Fonctionnement du projet
+## Projet d'application pour la visualisation de phénomènes météos
 Le projet cloné contient plusieurs fichiers:
   - *LandingPage.htmml* : Page de démarrage de notre application.
   - *map.html* : Fichier permettant de générer notre application principale avec la carte et les différentes fonctions implémentées.
