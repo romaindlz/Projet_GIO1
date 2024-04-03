@@ -42,7 +42,7 @@ Le projet cloné contient plusieurs fichiers:
   - *style.css* : Fichier permettant de styliser notre application principale.
   - *script.js* : Fichier qui contient tout le développement Javascript de notre projet.
   - *XXX.jpg et XXX.png* : Différents logos utilisés dans notre projet.
-  - Dossiers *public* et *src* : Différents dossiers contenant le développement VueJs de la fonction de prédictions des phénomènes météorologiques.
+  - Dossiers *public* et *src* : Différents dossiers contenant le développement dans le Framework *VueJs* de la fonction de prédictions des phénomènes météorologiques.
 
 La fonction de prédiction des phénomènes météos a été implémentée en VueJs, contrairement à notre application principale, et n'est pas intégrée dans cette dernière. 
 Après avoir rencontré des difficultés à intégrer cette fonction dans l'application principale ainsi que par manque de temps, nous n'avons pas pu intégrer cette fonctionnalité dans notre application. 
@@ -71,10 +71,7 @@ Premièrement, le manque d'expérience nous a grandement ralenti dans l'exécuti
 Nos connaissances en la matière datent alors de plusieurs mois. Il nous a fallu alors reprendre nos bases pour pouvoir élaborer notre projet. Ceci nous a donc fortement ralenti dans l'implémentation de notre application.\
 Une seconde difficulté rencontrée a été la recherche de données. A la base, notre idée d'application consistait à pouvoir visualiser plusieurs variables météorologiques, comme la température par exemple, sur les X précédents/prochains jours.
 Nous avions l'ambition de pouvoir faire des prédictions dans le temps de ces différents variables. Comme par exemple, estimer la température le 10 juin 2040 sur la ville de Lausanne. Lors de nos recherches, nous avons rencontré des difficultés à rencontrer ces données. Nous avons trouvé des API qui permettent de faire des requêtes afin d'obtenir différentes données météorologiques. Néanmoins, dans la totalité des API trouvées, le nombre de requêtes quotidiennes est limité à 50 pour obtenir les informations gratuitement. Si l'on désire effectuer plus de requêtes, ce service devient payant. Le nombre de requête étant très limité, cela ne nous a pas permis de développer notre application à l'aide de ces API. Nous avons donc du nous limiter à afficher des données raster en WMS. \
-
-
-
-
-
+Une difficulté supplémentaire rencontrée a été l'intégration des nouveaux outils vus en cours dans notre projet. Le temps à disposition à la suite des cours théoriques étant plutôt court, nous avons décidé de débuter le projet avant d'avoir vu tous les outils étudiés en cours. L'intégration de ces nouveaux éléments dans notre projet déjà commencé n'a pas été simple pour nous. L'adaptation de notre projet dans le Framework *VueJS* a été très compliqué pour nous. Le temps venant à manquer, nous avons alors décidé de garder notre implémentation de départ. De plus, ce Framework est basé sur une approche de programmation orientée objet (POO). Dans le cadre de notre Bachelor, nous avons principalement effectué de la programmation fonctionnel, ce qui n'a fait que rendre plus compliqué l'adaptation de notre projet dans le Framework *VueJs*.
 
 ### Améliorations possibles
+Cette dernière section concerne les potentielles améliorations que nous pourrions intégrer à notre application. \
