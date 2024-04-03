@@ -65,7 +65,16 @@ Une fonction permet ensuite de zoomer sur la carte sur les coordonnées obtenues
 A la fin du fichier *script.js*, la fonctionnalité de prédiction des phénomènes météos a été ajoutée afin d'essayer de l'intégrer dans l'application principale.
 Après plusieurs essais sans succès, nous avons arreté de chercher à l'implémenter dans notre application principale et nous l'avons implémenter en VueJs dans un dossier à part.
 
+### Difficultés rencontrées
+Lors de la réalisation de notre projet, nous avons rencontré plusieurs difficultés. \
+Premièrement, le manque d'expérience nous a grandement ralenti dans l'exécution de notre projet. En effet, aucun de nous ne fait de programmation Web dans sa profession actuelle.
+Nos connaissances en la matière datent alors de plusieurs mois. Il nous a fallu alors reprendre nos bases pour pouvoir élaborer notre projet. Ceci nous a donc fortement ralenti dans l'implémentation de notre application.\
+Une seconde difficulté rencontrée a été la recherche de données. A la base, notre idée d'application consistait à pouvoir visualiser plusieurs variables météorologiques, comme la température par exemple, sur les X précédents/prochains jours.
+Nous avions l'ambition de pouvoir faire des prédictions dans le temps de ces différents variables. Comme par exemple, estimer la température le 10 juin 2040 sur la ville de Lausanne. Lors de nos recherches, nous avons rencontré des difficultés à rencontrer ces données. Nous avons trouvé des API qui permettent de faire des requêtes afin d'obtenir différentes données météorologiques. Néanmoins, dans la totalité des API trouvées, le nombre de requêtes quotidiennes est limité à 50 pour obtenir les informations gratuitement. Si l'on désire effectuer plus de requêtes, ce service devient payant. Le nombre de requête étant très limité, cela ne nous a pas permis de développer notre application à l'aide de ces API. Nous avons donc du nous limiter à afficher des données raster en WMS. \
 
-## Difficultés rencontrées
 
-## Améliorations possibles
+
+
+
+
+### Améliorations possibles
