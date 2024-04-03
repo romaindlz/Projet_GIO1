@@ -75,3 +75,4 @@ Une difficulté supplémentaire rencontrée a été l'intégration des nouveaux 
 
 ### Améliorations possibles
 Cette dernière section concerne les potentielles améliorations que nous pourrions intégrer à notre application. \
+dbhcbads
