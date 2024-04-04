@@ -97,11 +97,11 @@ src/
 ```
 Le composant *App.vue* est le composant parent alors que les autres composants sont des composants enfants.
 Les différents composants *Vue* aurait les responsabilités suivantes:
-  - *App.vue* : Ce composant serait responsable de l'affichage de la carte avec les données ainsi que de la création des Togglebutton pour activer/désactiver les données.
+  - *App.vue* : Ce composant serait responsable de l'affichage de la carte avec les données ainsi que de la création des Togglebutton pour activer/désactiver les données. Il est également responsable de transmettre l'état du boutton aux composants enfants.
   - *SearchLocation.vue* : Ce composant serait reponsable de gérer la fonction de recherche. Il récupérerait le texte tapé dans l'input "text" présent sur l'application et ferait appel à l'API permettant la recherche par location.
-  - *Map.vue* : Ce composant serait responsable de contacter à l'aide d'API les différentes données spécifiques aux fonds de carte de l'application.
-  - *Temperature.vue* : Ce composant serait responsable de contacter à l'aide d'API les différentes données spécifiques aux températures.
-  - *Precipitation.vue* : Ce composant serait responsable de contacter à l'aide d'API les différentes données spécifiques aux précipitations.
+  - *Map.vue* : Ce composant serait responsable de contacter à l'aide d'API les différentes données spécifiques aux fonds de carte de l'application. Il sera également responsable d'afficher la donnée spécifique selon l'état du togglebutton.
+  - *Temperature.vue* : Ce composant serait responsable de contacter à l'aide d'API les différentes données spécifiques aux températures. Il sera également responsable d'afficher la donnée spécifique selon l'état du togglebutton.
+  - *Precipitation.vue* : Ce composant serait responsable de contacter à l'aide d'API les différentes données spécifiques aux précipitations. Il sera également responsable d'afficher la donnée spécifique selon l'état du togglebutton.
   - *Prediction.vue* : Ce composant serait responsable de récupérer la valeur de la slidebar dans l'application afin d'utiliser cette valeur pour la prédiction des phénomènes météos. Il serait également reponsable d'afficher ensuite les données calculées sur la carte.
   - *...* : Nous aurions pu ajouter autant de composants que de données que nous voudrions afficher avec la même logique que les composants précédents.
 
@@ -118,18 +118,66 @@ Il est important d'importer les différents composants dans le composant *App.vu
 <script>
 import { ref } from 'vue';
 import Temperature from './Temperature.vue';
-
+    const showTemperature = ref(false);
     const toggleTemperature = () => {
-      showTemperature.map = !showTemperature.map;
+      showTemperature.value = !showTemperature.value;
     };
 </script>
 ```
 Ici ce bout de code importe l'attribut spécial *ref* qui permet d'obtenir une référence directe à une instance d'un composant enfant.
 La seconde ligne permet d'importer le composant enfant *Temperature.vue* dans le composant parents *App.vue*.
-La constante *toggleTemperature* est appelée lorsque l'on coche/décoche le togglebutton afin d'afficher ou non les données.
+La constante *showTemperature*, intialisée à false, est la valeur du bouton (true => activé, false = désactivé) qui permet de dire au composant enfant s'il doit afficher ou non la donnée. L'attribut *ref* permet au composant enfant d'avoir accès à cette valeur.
+La constante *toggleTemperature* est appelée lorsque l'on coche/décoche le togglebutton afin de modifier la valeur de la constante *showTemperature*. \
+Le composant enfant *Temperature.vue* étant responsable de l'affichage de sa donnée, il doit tout d'abord faire une requête *GET* à l'aide d'API pour récupérer les données:
+```
+<script>
 
+import 'ol/ol.css';
+import Map from 'ol/Map';
+import OSM from 'ol/source/OSM';
+import TileLayer from 'ol/layer/Tile';
+import View from 'ol/View';
+import * as olProj from 'ol/proj';
 
+const source = {
+apiTempSource91_10 : new ol.source.TileWMS({
+        url: 'https://wms.geo.admin.ch/',
+        params: {
+            'SERVICE': 'WMS',
+            'VERSION': '1.3.0',
+            'REQUEST': 'GetMap',
+            'LAYERS': 'ch.meteoschweiz.klimanormwerte-temperatur_aktuelle_periode',
+            'FORMAT': 'image/png',
+            'TRANSPARENT': true
+        }
+    }),
+};
 
+methods:{
+function OverLayer(layer, source, this.$refs.showTemperature.value) {
+    if (layer) {
+        if (this.$refs.showTemperature.value) {
+            layer.setSource(source);
+            map.addLayer(layer);
+        } else {
+            map.removeLayer(layer);
+        }
+    }
+}
+}
+</script>
+```
+Dans ce code, nous commençons par importer tous les éléments nécessaires de *Openlayers*.
+Ensuite, nous créons une constante source qui permet d'acquérir la donnée via une requête *GET*.
+Une méthode est crée afin d'afficher ou non la donnée sur la carte. \
+Une dernière chose importante est de créer une carte dans le template de ce composant:
+```
+<template>
+<div id="ol-container" class="map"></div>
+</template>
+```
+Cet exemple de code concernerait que la température. Il aurait fallu suivre la même logique pour chaque composant spécifique aux différentes données.\
+Une dernière amélioration aurait pu être d'avoir accès à des données opensource météo sans limite du nombre de requête. Si le temps ne nous avait pas manqué, nous aurions pu faire de plus amples recherches et avec un peu de chance nous aurions trouvé des données opensource avec lesquelles nous aurions pu travailler.
 
 
 
