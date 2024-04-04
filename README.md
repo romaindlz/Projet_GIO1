@@ -59,9 +59,9 @@ Lorsqu'un togglebButton est activé ou désactivé, une tuile WMS provenant de G
 Toutes les données que nous affichons sont donc des données raster. \
 Une slidebar permet de modifier la période de visualisation des différents phénomènes.
 Une fonction de recherche permet de faire une recherche selon une ville, un village, etc. 
-Cette fonction de recherche est possible à l'aide d'une API *OpenWeather*. 
+Cette fonction de recherche est possible à l'aide d'une API *OpenWeather* de *Geocoding*. 
 Une fois qu'une ville est recherchée dans la barre de recherche, une requête *GET* permet de récupérer la longitude et la latitude de la ville recherchée.
-Une fonction permet ensuite de zoomer sur la carte sur les coordonnées obtenues avec la requête précédente. \
+Une fonction permet ensuite de zoomer sur la carte aux coordonnées obtenues avec la requête précédente. \
 A la fin du fichier *script.js*, la fonctionnalité de prédiction des phénomènes météos a été ajoutée afin d'essayer de l'intégrer dans l'application principale.
 Après plusieurs essais sans succès, nous avons arreté de chercher à l'implémenter dans notre application principale et nous l'avons implémenter en VueJs dans un dossier à part.
 
