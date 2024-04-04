@@ -48,7 +48,7 @@ La fonction de prédiction des phénomènes météos a été implémentée en Vu
 Après avoir rencontré des difficultés à intégrer cette fonction dans l'application principale ainsi que par manque de temps, nous n'avons pas pu intégrer cette fonctionnalité dans notre application. 
 
 ### Landing page
-Cette page de garde est la page de démarrage de notre application. Elle permet de faire le lien pour accéder à notre application principale. Un boutton permet également de faire le lien avec notre répértoire Github. \
+Cette page de garde est la page de démarrage de notre application. Elle permet de faire le lien pour accéder à notre application principale ainsi qu'à notre répértoire Github. \
 L'image en fond représente un paysage montagneux lors d'une tempête. Ce fond représente bien le thème de notre projet. Cette image de fond à été générée par une IA.
 
 ### Application principale
