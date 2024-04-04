@@ -30,7 +30,7 @@ Nous sommes trois étudiants de première année dans la filière ingénierie g�
 Notre équipe se compose de trois étudiants:
   - Romain Délèze: Ingénieur en géomatique et gestion du territoire depuis été 2023. Ses tâches principales ont été le développement HTML, CSS et Javascript ainsi que la recherche des améliorations à appliquer au projet.
   - Benjamin Melchiorre: Ingénieur en géomatique et gestion du territoire depuis été 2023. Ses tâches principales ont été le développement HTML, CSS et Javascript, l'élaboration du markdown ainsi que la recherche des améliorations à appliquer au projet.
-  - Mazhoud Mohamed: Etudiant en échange de Tunisie, ses tâches principales ont été le développement HTML, CSS et Javascript ainsi que la recherche et le développement de l'outil de prédiction des phénomènes météorologiques.
+  - Mohamed Mazhoud: Etudiant en échange de Tunisie, ses tâches principales ont été le développement HTML, CSS et Javascript ainsi que la recherche et le développement de l'outil de prédiction des phénomènes météorologiques.
 
 ### Collaboration au sein du groupe
 Pour collaborer ensemble sur ce projet, un répertoire Github a été créé. Tous les documents utiles au projet ont été déposé sur ce répertoire. Pour effectuer certains développement des "branches" git ont été créées, notamment pour le développement de la prédiction des phénomènes météorologiques en VueJs.
