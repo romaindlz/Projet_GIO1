@@ -95,14 +95,39 @@ src/
   |_ main.js
   |_ App.vue  
 ```
+Le composant *App.vue* est le composant parent alors que les autres composants sont des composants enfants.
 Les différents composants *Vue* aurait les responsabilités suivantes:
-  - *App.vue*
+  - *App.vue* : Ce composant serait responsable de l'affichage de la carte avec les données ainsi que de la création des Togglebutton pour activer/désactiver les données.
   - *SearchLocation.vue* : Ce composant serait reponsable de gérer la fonction de recherche. Il récupérerait le texte tapé dans l'input "text" présent sur l'application et ferait appel à l'API permettant la recherche par location.
-  - *Map.vue* : Ce composant serait responsable de récupérer l'état du toggle spécifique aux fonds de carte dans l'application et d'afficher le fond de carte demandé.
-  - *Temperature.vue* : Ce composant serait responsable de récupérer l'état du toggle spécifique à cette donnée dans l'application et d'afficher la donnée spécifique sur la carte.
-  - *Precipitation.vue* : Ce composant serait responsable de récupérer l'état du toggle spécifique à cette donnée dans l'application et d'afficher la donnée spécifique sur la carte.
+  - *Map.vue* : Ce composant serait responsable de contacter à l'aide d'API les différentes données spécifiques aux fonds de carte de l'application.
+  - *Temperature.vue* : Ce composant serait responsable de contacter à l'aide d'API les différentes données spécifiques aux températures.
+  - *Precipitation.vue* : Ce composant serait responsable de contacter à l'aide d'API les différentes données spécifiques aux précipitations.
   - *Prediction.vue* : Ce composant serait responsable de récupérer la valeur de la slidebar dans l'application afin d'utiliser cette valeur pour la prédiction des phénomènes météos. Il serait également reponsable d'afficher ensuite les données calculées sur la carte.
   - *...* : Nous aurions pu ajouter autant de composants que de données que nous voudrions afficher avec la même logique que les composants précédents.
+
+Maintenant que nous avons vu un exemple de l'architecture que l'on aurait pu mettre en place pour notre projet dans le framework *VueJs*, voici les éléments importants qui devraient se trouver dans nos différents compossants.
+Le composant *App.vue* étant responsable de l'affichage de la carte avec les données ainsi que la création des boutons, nous aurions déjà ce type de code dans le template de notre composant:
+```
+<template>
+  <button @click="toggleTemperature">Afficher/Masquer Température</button>
+</template>
+```
+Sur cette ligne, on crée un bouton qui lorsqu'il est cliqué affiche ou masque les données du composant enfant responsable de la température.
+Il est important d'importer les différents composants dans le composant *App.vue* avec par exemple ce code:
+```
+<script>
+import { ref } from 'vue';
+import Temperature from './Temperature.vue';
+
+    const toggleTemperature = () => {
+      showTemperature.map = !showTemperature.map;
+    };
+</script>
+```
+Ici ce bout de code importe l'attribut spécial *ref* qui permet d'obtenir une référence directe à une instance d'un composant enfant.
+La seconde ligne permet d'importer le composant enfant *Temperature.vue* dans le composant parents *App.vue*.
+La constante *toggleTemperature* est appelée lorsque l'on coche/décoche le togglebutton afin d'afficher ou non les données.
+
 
 
 
