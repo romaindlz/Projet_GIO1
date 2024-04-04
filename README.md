@@ -96,6 +96,7 @@ src/
   |_ App.vue  
 ```
 Les différents composants *Vue* aurait les responsabilités suivantes:
+  - *App.vue*
   - *SearchLocation.vue* : Ce composant serait reponsable de gérer la fonction de recherche. Il récupérerait le texte tapé dans l'input "text" présent sur l'application et ferait appel à l'API permettant la recherche par location.
   - *Map.vue* : Ce composant serait responsable de récupérer l'état du toggle spécifique aux fonds de carte dans l'application et d'afficher le fond de carte demandé.
   - *Temperature.vue* : Ce composant serait responsable de récupérer l'état du toggle spécifique à cette donnée dans l'application et d'afficher la donnée spécifique sur la carte.
