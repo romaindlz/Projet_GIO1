@@ -368,10 +368,11 @@ ul ul ul li {
     max-width: 300px;
 }
 .marker {
-    width: 20;
+    width: 20px;
     height: 20px;
     background-color: red;
     border-radius: 50%;
     border: 2px solid white;
     cursor: pointer;
+    visibility: hidden; /* the slider is hidden by default */
 }

@@ -1,3 +1,4 @@
+// Map parameters
 const map = new ol.Map({
     target: "map-container",
     view: new ol.View({
@@ -11,7 +12,7 @@ const map = new ol.Map({
 });
 
 
-// Reset
+// Reset view
 ResetView.addEventListener('click', function() {
     map.getView().setCenter(ol.proj.transform([8.2, 46.8], "EPSG:4326", "EPSG:3857"));
     map.getView().setZoom(8);
@@ -121,6 +122,11 @@ function replaceSource(sourceName,layer) {
 }
 
 
+function replaceSource(sourceName,layer) {
+    layer.setSource(sources[sourceName]);
+}
+
+
 /*Temperature*/
 const toggleButton_temp = document.getElementById('myonoffswitch_temp');
 const sliderContainer = document.getElementById('slider');
@@ -224,6 +230,7 @@ function geocodeCity() {
     });
 }
 
+// Function to center the map at certain coodinates
 function zoomToCoordinates(latitude, longitude) {
     const view = map.getView();
 
@@ -245,14 +252,6 @@ const resetButton = document.getElementById('resetButton');
 const toggleButton_hist = document.getElementById('myonoffswitch_hist');
 const YearsliderContainer = document.getElementById('YearSlider');
 
-toggleButton_hist.addEventListener('change', function() {
-    const isChecked = this.checked;
-    YearsliderContainer.style.visibility = this.checked ? 'visible' : 'hidden'; 
-
-});
-
-map.addOverlay(popup);
-
 // Création d'une popup
 var popup = new ol.Overlay({
     element: document.getElementById('popup'),
@@ -262,17 +261,37 @@ var popup = new ol.Overlay({
     }
 });
 
-// Ajout de la popup à la carte
-map.addOverlay(popup);
-
 // Création d'une couche de marqueurs
-var markersLayer = new ol.layer.Vector({
+const markersLayer = new ol.layer.Vector({
     source: new ol.source.Vector(),
 });
 
-// Ajout de la couche de marqueurs à la carte
-map.addLayer(markersLayer);
+// Ajout de la popup à la carte
+map.addOverlay(popup);
 
+// Fonction pour définir la visibilité des marqueurs en fonction de l'état du bouton bascule
+function toggleMarkerVisibility(isVisible) {
+    const markerElements = document.querySelectorAll('.marker'); // Remplacez '.your-marker-class' par la classe CSS réelle de vos marqueurs
+    markerElements.forEach(function(marker) {
+        marker.style.visibility = isVisible ? 'visible' : 'hidden';
+    });
+}
+
+// Affihie ou non les marker et les pop up en fonction de l'état du toggle button 'historique'
+toggleButton_hist.addEventListener('change', function () {
+    const isChecked = this.checked;
+    YearsliderContainer.style.visibility = isChecked ? 'visible' : 'hidden';
+    if (isChecked) {
+        map.addOverlay(popup);
+        toggleMarkerVisibility(true); // Marqueurs visibles
+    } else {
+        map.removeOverlay(popup);
+        toggleMarkerVisibility(false); // Marqueurs invisibles
+    }
+});
+
+
+// Fonction pour lire le fichier JSON
 function loadAndDisplayJSON(url, year) {
     fetch(url)
         .then(response => response.json())
@@ -280,7 +299,7 @@ function loadAndDisplayJSON(url, year) {
             // Efface les marqueurs précédents
             markersLayer.getSource().clear();
             data.filter(item => item.dt.startsWith(year)).forEach(item => {
-                let coords = ol.proj.fromLonLat([item.Longitude, item.Latitude]);
+                let coords = ol.proj.fromLonLat([parseFloat(item.Longitude), parseFloat(item.Latitude)]);
                 var markerElement = document.createElement('div');
                 markerElement.className = 'marker';
                 var marker = new ol.Overlay({
@@ -300,11 +319,13 @@ function loadAndDisplayJSON(url, year) {
         .catch(error => console.error('Erreur lors du chargement du fichier JSON:', error));
 }
 
+// Fonction qui récupère les données du JSON en fonction de l'année et du slider
 function updateYear(year) {
     document.getElementById('yearDisplay').innerText = year; // Mettre à jour l'affichage de l'année
     loadAndDisplayJSON('GlobalTempData.json', year);
 }
 
+// Fonction qui récupère l'année du slider
 window.onload = function() {
     updateYear(document.getElementById('yearSlider').value);
 };
